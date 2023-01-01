@@ -3,3 +3,5 @@ title: "About This Website"
 ---
 
 More about this website.
+
+[`r icons::fontawesome("linkedin")`](www.linkedin.com/in/dgraetz)
