@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+### Dissertation: Attentional Choice
+My current primary focus is my dissertation, which explores the mechanisms of **attentional choice**. 
+
+*(You can add a brief paragraph here explaining the core question of your dissertation, the methodology you are using, or any preliminary findings!)*
+
+---
+
+### Core Areas of Interest
+* **Cognitive Psychology:** Understanding the underlying processes of human thought, attention, and decision-making.
+* **Human-Computer Interaction (HCI):** Applying cognitive principles to improve how humans interface with technology.
+* **Artificial Intelligence:** Exploring the psychological implications and cognitive parallels of AI systems.
+
+---
+
+### Technical Proficiencies
+* **Experimental Design:** MATLAB & Psychtoolbox for high-precision stimulus presentation and behavioral data collection.
+* **Data Science:** R and Python for data wrangling, advanced statistical modeling, and data visualization.

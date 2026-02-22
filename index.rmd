@@ -1,6 +1,28 @@
 ---
-title: "Welcome!"
+title: "Dominik Graetz"
+image: "profile.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/yourprofile"
+  - label: GitHub
+    url: "https://github.com/yourusername"
+  - label: Email
+    url: "mailto:your.email@example.com"
+output: html_document
 ---
+ 
+### Bio
 
+I am a PhD student in psychology bridging the gap between human cognition and modern technology. My work lies at the intersection of cognitive psychology, human-computer interaction (HCI), and artificial intelligence. 
 
-Construction site.
+My primary research and dissertation focus on the underlying mechanisms of **attentional choice**—understanding how we process information and interact with complex systems.
+
+### Technical Toolkit
+
+To design experiments, collect behavioral data, and run advanced statistical models, I rely on a robust technical stack:
+* **R & Python**
+* **MATLAB & Psychtoolbox**
+
+### Beyond the Lab
+
+When I am not coding or analyzing data, I am usually tending to the ecosystem in my planted aquarium or planning my next travel adventure.

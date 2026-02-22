@@ -1,8 +1,14 @@
-name: "my-website"
+name: "dominik-graetz-portfolio"
 navbar:
-  title: "Dominik Grätz"
+  title: "Dominik Graetz"
   left:
     - text: "Home"
       href: index.html
-    - text: "About this"
-      href: about.html
+    - text: "Research"
+      href: research.html
+output_dir: "_site"
+output:
+  html_document:
+    theme:
+      version: 5
+      bootswatch: lux
