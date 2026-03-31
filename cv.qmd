@@ -26,19 +26,18 @@ title: "Curriculum Vitae"
 2020–present
 :::
 ::: {.cv-entry-body}
-**Ph.D. Psychology** — University of Oregon, Eugene, OR, USA\
+**Ph.D. Psychology** [in progress]{.badge-pill} — University of Oregon, Eugene, OR, USA\
 Cognitive Psychology & Neuroscience, Data Science · GPA 4.12\
 Advisor: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/)\
-*Master's degree awarded December 2021 (GPA: 4.07)*
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-entry-meta}
-2019–2020
+2020-2021
 :::
 ::: {.cv-entry-body}
-**M.Sc. Psychology** *(transferred)* — University of Potsdam, Germany
+**MS Psychology** — University of Oregon, Eugene, OR, USA
 :::
 :::
 
@@ -162,10 +161,6 @@ Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U., Kuhl, B.
 :::
 
 ::: {.pub-entry}
-Dodge, C., **Graetz, D.**, Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
-:::
-
-::: {.pub-entry}
 **Graetz, D.**, Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. *Psychonomic Society Annual Meeting*, New York, NY. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
 :::
 
@@ -179,6 +174,10 @@ Dodge, C., **Graetz, D.**, Mayr, U. (2025). Attention as Optimization: Reward-Gu
 
 ::: {.pub-entry}
 **Graetz, D.**, Moss, M. E., & Mayr, U. (2023). Should I Stay or Should I Go? Breathing Modulates the Attentional Exploitation/Exploration Balance. *Graduate Student Research Forum*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21372.82560)
+:::
+
+::: {.pub-entry}
+Dodge, C., **Graetz, D.**, Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
 :::
 
 ::: {.pub-entry}
@@ -197,12 +196,26 @@ Wang, E., **Graetz, D.**, Mayr, U. (2023). Task-Relevant Spatial Attention and D
 Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21560.01281)
 :::
 
+
+## Honors Students Mentees
+
+::: {.mentee-list}
+[Keely McMullen]{.mentee-tag}
+[Blezyl Domingo]{.mentee-tag}
+[Eric Wang]{.mentee-tag}
+[Sarita Ahmad]{.mentee-tag}
+[Cade Dodge]{.mentee-tag}
+:::
+
+
+
 ## Teaching
 
 ### University of Oregon — Instructor
 
 | Course | Role | Years |
 |--------|------|-------|
+| PSY 613 – Data Analysis III | Instructor | 2026 |
 | PSY 612 – Data Analysis II | Instructor | 2024, 2025 |
 | PSY 611 – Data Analysis I | Instructor | 2023, 2024 |
 | PSY 303 – Research Methods | Instructor | 2023, 2025 |
@@ -219,6 +232,16 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 ## Scholarships & Awards
 
 ::: {.cv-section}
+
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2026
+:::
+::: {.cv-entry-body}
+**Clarence and Lucille Dunbar Scholarship** — University of Oregon
+:::
+:::
 
 ::: {.cv-entry}
 ::: {.cv-entry-meta}
@@ -273,6 +296,41 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 - **2022** — Certificate: *Learning SQL Programming* (LinkedIn Learning)
 - **2019** — *Docendo Discimus* Teaching Certificate, 360 hours theory & practice (University of Potsdam)
 
+
+
+## Skills & Methods
+
+::: {.skills-grid}
+
+::: {.skill-block}
+**Programming**\
+R · MATLAB · JavaScript/PsychoJS · Python · Bash · SQL
+:::
+
+::: {.skill-block}
+**Tools & Frameworks**\
+Psychtoolbox · PsychoPy · Quarto · Shiny · HPC clusters · Parallel Computing
+:::
+
+::: {.skill-block}
+**Data Collection Tools**\
+Pavlovia · PsychoPy · Qualtrics · SONA
+:::
+
+::: {.skill-block}
+**Statistics**\
+Linear Regressions · Mixed Effects Models · Nonparametric methods · Bayesian methods · Structural Equation Modeling · Fourier/wavelet analysis · Machine learning
+:::
+
+::: {.skill-block}
+**Methods**\
+Eye-tracking · fMRI analysis · Online experiments · Computational Modeling · Monte Carlo Simulations
+:::
+
+:::
+
+
+
 ## Volunteering
 
 ::: {.cv-section}
@@ -303,32 +361,6 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 ::: {.cv-entry-body}
 **British Red Cross Society** — Fundraising Volunteer, Southampton, England
 :::
-:::
-
-:::
-
-## Skills & Methods
-
-::: {.skills-grid}
-
-::: {.skill-block}
-**Programming**\
-R · Python · MATLAB · JavaScript · Bash · SQL
-:::
-
-::: {.skill-block}
-**Tools & Frameworks**\
-Psychtoolbox · PsychoPy · Quarto · Shiny · HPC clusters
-:::
-
-::: {.skill-block}
-**Statistics**\
-GLMMs · Bayesian methods · SEM · Fourier/wavelet analysis · Machine learning
-:::
-
-::: {.skill-block}
-**Methods**\
-Eye-tracking · Respiration recording · fMRI analysis · Online experiments
 :::
 
 :::

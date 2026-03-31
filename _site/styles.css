@@ -234,6 +234,11 @@ a:hover { text-decoration: underline; }
 .edu-place  { color: var(--muted); font-size: 0.83rem; }
 .edu-note   { color: var(--slate); font-size: 0.8rem; margin-top: 0.15rem; }
 
+@keyframes badge-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(32, 178, 152, 0.5); opacity: 1; }
+  50%       { box-shadow: 0 0 6px 4px rgba(32, 178, 152, 0); opacity: 0.75; }
+}
+
 .badge-pill {
   display: inline-block;
   font-size: 0.68rem;
@@ -246,6 +251,7 @@ a:hover { text-decoration: underline; }
   vertical-align: middle;
   margin-left: 0.3rem;
   text-transform: uppercase;
+  animation: badge-pulse 2.4s ease-in-out infinite;
 }
 
 .award-entry {
@@ -393,6 +399,24 @@ tbody tr:last-child td { border-bottom: none; }
   line-height: 1.9;
 }
 .cv-contact-block a { color: var(--teal); }
+
+/* Mentee tags */
+.mentee-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1.5rem;
+}
+.mentee-tag {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--teal);
+  background: var(--teal-lt);
+  border: 1px solid rgba(32,178,152,0.25);
+  padding: 0.25em 0.75em;
+  border-radius: 99px;
+}
 
 /* CV timeline entries */
 .cv-section { margin-bottom: 0.5rem; }
