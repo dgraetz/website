@@ -487,13 +487,33 @@ tbody tr:last-child td { border-bottom: none; }
 
 .cv-entry {
   display: grid;
-  grid-template-columns: 110px 1fr;
+  grid-template-columns: 110px 1fr 130px;
   gap: 1rem;
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--border);
   align-items: start;
 }
 .cv-entry:last-child { border-bottom: none; }
+
+.cv-entry-logo-col {
+  display: flex;
+  align-items: center;
+  padding-top: 0.1rem;
+  min-height: 1rem;
+}
+
+.cv-entry-logo-col a {
+  display: block;
+  line-height: 0;
+  text-decoration: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.cv-entry-logo-col a:hover .cv-entry-logo {
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
 
 .cv-entry-meta {
   font-size: 0.78rem;
@@ -556,13 +576,12 @@ tbody tr:last-child td { border-bottom: none; }
 }
 
 .cv-entry-logo {
-  height: 22px;
+  height: 36px;
   width: auto;
-  opacity: 0.85;
-  margin-top: 0.35rem;
+  max-width: 120px;
+  object-fit: contain;
+  object-position: left center;
   display: block;
-  filter: grayscale(10%);
-  max-width: 110px;
 }
 
 /* ── Skills grid ───────────────────────────────────────── */
@@ -609,6 +628,7 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2.5rem 0; }
   .cv-header { flex-direction: column; gap: 0.75rem; }
   .cv-contact-block { text-align: left; }
   .cv-entry { grid-template-columns: 1fr; gap: 0.25rem; }
+  .cv-entry-logo-col { display: none; }
   .skills-grid { grid-template-columns: 1fr; }
 }
 

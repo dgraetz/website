@@ -30,11 +30,13 @@ number_sections: true
 ::: {.cv-entry-meta}
 2020–present
 :::
-
 ::: {.cv-entry-body}
 **Ph.D. Psychology** [in progress]{.badge-pill} - [University of Oregon](https://naturalsciences.uoregon.edu/psychology), Eugene, OR, USA\
 Specializations: Neuroscience, Data Science\
 Advisor: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/)\
+:::
+::: {.cv-entry-logo-col}
+[![](images/uo_logo.svg){.cv-entry-logo}](https://naturalsciences.uoregon.edu/psychology)
 :::
 :::
 
@@ -44,6 +46,9 @@ Advisor: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/)\
 :::
 ::: {.cv-entry-body}
 **MS Psychology** - [University of Oregon](https://naturalsciences.uoregon.edu/psychology), Eugene, OR, USA
+:::
+::: {.cv-entry-logo-col}
+[![](images/uo_logo.svg){.cv-entry-logo}](https://naturalsciences.uoregon.edu/psychology)
 :::
 :::
 
@@ -55,6 +60,9 @@ Advisor: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/)\
 **Erasmus Exchange Semester** - [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-psychology), England\
 Focus: Cognitive Psychology
 :::
+::: {.cv-entry-logo-col}
+[![](images/soton_logo.svg){.cv-entry-logo}](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-psychology)
+:::
 :::
 
 ::: {.cv-entry}
@@ -65,6 +73,9 @@ Focus: Cognitive Psychology
 **B.Sc. Psychology** - [University of Potsdam](https://www.uni-potsdam.de/en/department-psychologie/index), Germany\
 Focus: Cognitive Psychology & Neuroscience\
 Thesis on Speed Reading
+:::
+::: {.cv-entry-logo-col}
+[![](images/potsdam_logo.png){.cv-entry-logo}](https://www.uni-potsdam.de/en/department-psychologie/index)
 :::
 :::
 
@@ -87,6 +98,9 @@ Thesis on Speed Reading
 - Statistical modelling in R: Mixed Models, ANOVAs, t-tests, non-parametric tests
 - Mentored six undergraduate students in honors projects
 :::
+::: {.cv-entry-logo-col}
+[![](images/uo_logo.svg){.cv-entry-logo}](https://blogs.uoregon.edu/cognitivedynamics/home/)
+:::
 :::
 
 ::: {.cv-entry}
@@ -96,7 +110,10 @@ Thesis on Speed Reading
 ::: {.cv-entry-body}
 **Student Research Assistant** - [University of Potsdam](https://www.uni-potsdam.de/en/department-psychologie/index) / [University of Paderborn](https://www.uni-paderborn.de/)\
 *Junior Research Group Hybrid Narrativity: Digital and Cognitive Approaches to Graphic Literature*\
-Statistical analyses, experiment programming, eye-tracking experiments - data collection, image annotation for AI training, 
+Statistical analyses, experiment programming, eye-tracking experiments - data collection, image annotation for AI training,
+:::
+::: {.cv-entry-logo-col}
+[![](images/potsdam_logo.png){.cv-entry-logo}](https://www.uni-potsdam.de/en/department-psychologie/index)
 :::
 :::
 
@@ -108,6 +125,9 @@ Statistical analyses, experiment programming, eye-tracking experiments - data co
 **Student Researcher** - [University of Rostock](https://www.ipprdk.uni-rostock.de/)\
 Organized and conducted testing for a standardization project of the KFT 4-12+R intelligence test
 :::
+::: {.cv-entry-logo-col}
+[![](images/rostock.png){.cv-entry-logo}](https://www.ipprdk.uni-rostock.de/)
+:::
 :::
 
 ::: {.cv-entry}
@@ -117,6 +137,9 @@ Organized and conducted testing for a standardization project of the KFT 4-12+R 
 ::: {.cv-entry-body}
 **Research Internship** - [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/), Brazil\
 Eye-tracking methodology and analysis consultation
+:::
+::: {.cv-entry-logo-col}
+[![](images/utfpr.svg){.cv-entry-logo}](https://www.utfpr.edu.br/)
 :::
 :::
 
@@ -129,6 +152,9 @@ Eye-tracking methodology and analysis consultation
 *Junior Research Group Health Sciences*
 Development of research design and data collection for a project investigating the consequences of acute psychosocial stress on decision-making in indiivduals with metabolic syndrome
 :::
+::: {.cv-entry-logo-col}
+[![](images/potsdam_logo.png){.cv-entry-logo}](https://www.uni-potsdam.de/en/department-psychologie/index)
+:::
 :::
 
 :::
@@ -138,19 +164,19 @@ Development of research design and data collection for a project investigating t
 ### Journal Articles
 
 ::: {.pub-entry}
-**Graetz, D.**, Mayr, U. (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? *Current Opinion in Behavioral Sciences, 57*, 101389. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+Mayr, U. & **Graetz, D.** (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? *Current Opinion in Behavioral Sciences, 57*, 101389. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
 :::
 
 ::: {.pub-entry}
-Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U., Kuhl, B. A. (*submitted*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
+Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (*submitted*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
 :::
 
 ::: {.pub-entry}
-Hubbard, J., **Graetz, D.**, Mayr, U. (*submitted*). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[OSF]](https://osf.io/4dqj5/overview)
+Hubbard, J., **Graetz, D.** & Mayr, U. (*submitted*). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[OSF]](https://osf.io/4dqj5/overview)
 :::
 
 ::: {.pub-entry}
-Moss, M., **Graetz, D.**, Mayr, U. (*submitted*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
+Moss, M., **Graetz, D.** & Mayr, U. (*submitted*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
 :::
 
 ::: {.pub-entry}
@@ -160,23 +186,23 @@ Christo, M. M. S., Klein, Â. I., de Resende, L. M. M., Szmoski, R. M., Borges, 
 ### Conference Posters
 
 ::: {.pub-entry}
-**Graetz, D.**, Mayr, U. (2025). Value Contexts Modulate Attentional Capture. *Psychonomic Society 66th Annual Meeting*, Denver, CO. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+**Graetz, D.** & Mayr, U. (2025). Value Contexts Modulate Attentional Capture. *Psychonomic Society 66th Annual Meeting*, Denver, CO. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
 :::
 
 ::: {.pub-entry}
-Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U., Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Cognitive Neuroscience Society Annual Meeting*, Boston, MA. [[DOI]](https://doi.org/10.13140/RG.2.2.14251.96800)
+Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U.& Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Cognitive Neuroscience Society Annual Meeting*, Boston, MA. [[DOI]](https://doi.org/10.13140/RG.2.2.14251.96800)
 :::
 
 ::: {.pub-entry}
-**Graetz, D.**, Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. *Psychonomic Society Annual Meeting*, New York, NY. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+**Graetz, D.** & Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. *Psychonomic Society Annual Meeting*, New York, NY. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
 :::
 
 ::: {.pub-entry}
-**Graetz, D.**, Guo, W., Mirjalili, S., Wang, E., Mayr, U., Kuhl, B. A. (2024). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Neuroscience*, Chicago, IL. [[DOI]](https://doi.org/10.13140/RG.2.2.34615.94888)
+**Graetz, D.**, Guo, W., Mirjalili, S., Wang, E., Mayr, U. & Kuhl, B. A. (2024). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Neuroscience*, Chicago, IL. [[DOI]](https://doi.org/10.13140/RG.2.2.34615.94888)
 :::
 
 ::: {.pub-entry}
-**Graetz, D.**, Mayr, U. (2023). Slower Response Speed Moves Us from Exploitation to Exploration. *Psychonomic Society Annual Meeting*, San Francisco, CA. [[DOI]](https://doi.org/10.13140/RG.2.2.36435.96802)
+**Graetz, D.** & Mayr, U. (2023). Slower Response Speed Moves Us from Exploitation to Exploration. *Psychonomic Society Annual Meeting*, San Francisco, CA. [[DOI]](https://doi.org/10.13140/RG.2.2.36435.96802)
 :::
 
 ::: {.pub-entry}
@@ -184,15 +210,15 @@ Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U., Kuhl, B.
 :::
 
 ::: {.pub-entry}
-Dodge, C., **Graetz, D.**, Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
+Dodge, C., **Graetz, D.** & Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
 :::
 
 ::: {.pub-entry}
-Ahmad, S., **Graetz, D.**, Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Action-Relevant Information. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.11482.93125)
+Ahmad, S., **Graetz, D.** & Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Action-Relevant Information. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.11482.93125)
 :::
 
 ::: {.pub-entry}
-Wang, E., **Graetz, D.**, Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging: An Eye-Tracking Approach. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21614.79682)
+Wang, E., **Graetz, D.** & Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging: An Eye-Tracking Approach. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21614.79682)
 :::
 
 ::: {.pub-entry}
@@ -215,7 +241,24 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 [Nayantara Arora]{.mentee-tag}
 :::
 
+#### Feedback from Mentees and Research Assistants
 
+```{=html}
+<div class="teaching-quotes">
+  <div class="teaching-quote">
+   [...]Thank you for mentoring me every step of the way through my thesis process. You helped me realize that I am capable of accomplishing more than I thought I was.[...]
+  </div>
+  <div class="teaching-quote">
+    [...]I've learned a lot through running various experiments and your R bootcamp, developed a valuable insight into cognitive psychology, grown as a student, and overall, had a very rewarding experience working at the CDL. You're a great mentor, and I'm extremely lucky I had the privilege of being your research assistant.[...]
+  </div>
+  <div class="teaching-quote">
+    [...]Thank you so much for your support, guidance, and patience throughout the summer and the academic year, and for making me feel welcome even as a freshman. I really admire you and your ability to explain complex concepts clearly, overall smartness and amazing baking skills! I've really enjoyed getting to know you, and truly appreciate you.[...]
+  </div>
+   <div class="teaching-quote">
+    [...]I wanted to express my gratitude for all the support and help you provided me for the honors thesis. I cannot thank you enough for the invaluable encouragements.[...]
+  </div>
+</div>
+```
 
 ## Teaching
 
@@ -240,7 +283,7 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 ```{=html}
 <div class="teaching-quotes">
   <div class="teaching-quote">
-   Dominik did a fantastic job teaching this course. He spent significant time and effort on explaining course content, assignments, and even went as far as to introduce us to the reproducibility crisis inpsychology research. I talked to other students in the class and they agreed, really stellar job, even though sometimes it was a challenge getting students to actively participate in class. Five stars. Thankyou, Dominik!
+   Dominik did a fantastic job teaching this course. He spent significant time and effort on explaining course content, assignments, and even went as far as to introduce us to the reproducibility crisis in psychology research. I talked to other students in the class and they agreed, really stellar job, even though sometimes it was a challenge getting students to actively participate in class. Five stars. Thank you, Dominik!
     <span class="teaching-quote-source">- PSY 303 student, Winter 2023</span>
   </div>
   <div class="teaching-quote">
@@ -276,6 +319,9 @@ Academic Writing (undergraduate instructor)
 ::: {.cv-entry-body}
 **Clarence and Lucille Dunbar Scholarship** - University of Oregon
 :::
+::: {.cv-entry-logo-col}
+[![](images/uo_logo.svg){.cv-entry-logo}](https://naturalsciences.uoregon.edu/psychology)
+:::
 :::
 
 ::: {.cv-entry}
@@ -283,7 +329,10 @@ Academic Writing (undergraduate instructor)
 2022–2025
 :::
 ::: {.cv-entry-body}
-**Harvey E. Lee Scholarship** - University of Oregon *(awarded 3 consecutive years)*
+**Harvey E. Lee Scholarship** - [University of Oregon](https://naturalsciences.uoregon.edu/psychology) *(awarded 3 consecutive years)*
+:::
+::: {.cv-entry-logo-col}
+[![](images/uo_logo.svg){.cv-entry-logo}](https://naturalsciences.uoregon.edu/psychology)
 :::
 :::
 
@@ -292,7 +341,10 @@ Academic Writing (undergraduate instructor)
 2020–2021
 :::
 ::: {.cv-entry-body}
-**Fulbright Scholarship** - German-American Fulbright Exchange, 9-month full-time graduate fellowship
+**Fulbright Scholarship** - [German-American Fulbright Exchange](https://fulbright.de/en), 9-month full-time graduate fellowship
+:::
+::: {.cv-entry-logo-col}
+[![](images/fulbright.jpg){.cv-entry-logo}](https://fulbright.de/en)
 :::
 :::
 
@@ -301,16 +353,22 @@ Academic Writing (undergraduate instructor)
 2020–2021
 :::
 ::: {.cv-entry-body}
-**First Year Merit Award** - University of Oregon
+**First Year Merit Award** - [University of Oregon](https://naturalsciences.uoregon.edu/psychology)
+:::
+::: {.cv-entry-logo-col}
+[![](images/uo_logo.svg){.cv-entry-logo}](https://naturalsciences.uoregon.edu/psychology)
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-entry-meta}
-02–03/2018
+02–04/2018
 :::
 ::: {.cv-entry-body}
-**PROMOS Scholarship** - German Academic Exchange Service (DAAD), research internship in Brazil
+**PROMOS Scholarship** - [German Academic Exchange Service (DAAD)](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/), research internship at the UTFPR in Brazil
+:::
+::: {.cv-entry-logo-col}
+[![](images/daad.png){.cv-entry-logo}](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/)
 :::
 :::
 
@@ -319,7 +377,10 @@ Academic Writing (undergraduate instructor)
 2017–2018
 :::
 ::: {.cv-entry-body}
-**Erasmus+ Scholarship** - Exchange semester at University of Southampton
+**Erasmus+ Scholarship** - Exchange semester at [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-psychology)
+:::
+::: {.cv-entry-logo-col}
+[![](images/erasmus.png){.cv-entry-logo}](https://erasmus-plus.ec.europa.eu/)
 :::
 :::
 
