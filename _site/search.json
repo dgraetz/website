@@ -1,87 +1,94 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "Eugene, OR, U.S.A.\n  \n  \n    dgrtz@uoregon.edu\n    github.com/dgraetz\n    ResearchGate\n    Research Demo"
+    "text": "A selection of interactive tools and online experiments from my research on attentional control and the exploitation–exploration tradeoff."
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\n\n\n2020–present\n\n\nPh.D. Psychology in progress — University of Oregon, Eugene, OR, USA\nCognitive Psychology & Neuroscience, Data Science · GPA 4.12\nAdvisor: Prof. Ulrich Mayr\n\n\n\n\n\n2020-2021\n\n\nMS Psychology — University of Oregon, Eugene, OR, USA\n\n\n\n\n2017–2018\n\n\nErasmus Exchange Semester — University of Southampton, England\nFocus: Cognitive and Forensic Psychology\n\n\n\n\n2015–2019\n\n\nB.Sc. Psychology — University of Potsdam, Germany\nFocus: Cognitive Psychology & Neuroscience · GPA ~3.7\nThesis on Speed Reading (grade equivalent ~4.0)"
+    "objectID": "portfolio.html#interactive-demo",
+    "href": "portfolio.html#interactive-demo",
+    "title": "Portfolio",
+    "section": "Interactive Demo",
+    "text": "Interactive Demo\n\n Attentional Decision Making\nAn interactive Hugging Face Space visualizing the value-based decision model of attentional control. Explore how response speed and reward context jointly govern whether attention is directed internally or toward the environment. Built with R and Shiny."
   },
   {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
-    "title": "Curriculum Vitae",
-    "section": "Research Experience",
-    "text": "Research Experience\n\n\n\n2020–present\n\n\nGraduate Researcher — Cognitive Dynamics Lab, University of Oregon\n\nResearch on rational analyses of internal/external information consumption and the influence of respiration on cognition\nEye-tracking and respiration experiments in MATLAB/Psychtoolbox with serial device integration; online experiments in Python and JavaScript\nStatistical modelling in R: (sinusoidal) GLMMs, ANOVAs, t-tests, non-parametric tests\nMentored five undergraduate students in honors projects\n\n\n\n\n\n2017–2021\n\n\nStudent Research Assistant — University of Potsdam / University of Paderborn\nHybrid Narrativity: Digital and Cognitive Approaches to Graphic Literature\n\nImage annotation for AI training, statistical analyses, experiment programming, eye-tracking\n\n\n\n\n\n2018–2019\n\n\nTest Leader for Berlin & Brandenburg — University of Rostock\nOrganized and conducted standardization testing for the KFT 4-12+R intelligence test\n\n\n\n\n02–03/2018\n\n\nResearch Internship — Universidade Tecnológica Federal do Paraná (UTFPR), Brazil\nEye-tracking methodology consultation and German instruction\n\n\n\n\n2016–2017\n\n\nJunior Research Group, Health Sciences — University of Potsdam\nDecision-making under acute psychosocial stress in adults with metabolic syndrome"
+    "objectID": "portfolio.html#online-experiments",
+    "href": "portfolio.html#online-experiments",
+    "title": "Portfolio",
+    "section": "Online Experiments",
+    "text": "Online Experiments\nMost of my experiments were run in person - see the three exceptions below, each hosted on Pavlovia.\n\n Beaches - Visual Search & Reward\nA Prolific-compatible task hosted on Pavlovia. It efficiently measures similarity ratings between many stimuli. Inspired by Hebart et al., 2020.\n\n\n Slow Search - Speed & Exploration\nA visual search experiment probing whether response slowing shifts attention from exploitation to exploration and to which degree humans can exhibit rational attentional behavior. The task manipulates response speed to test whether slower participants show greater reliance on external, action-relevant information.\n\n\n Slow Math - Arithmetic & Attention\nThis experiment is similar to “Slow Search” but manipulates response speed by including easy vs. difficult math problems."
   },
   {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\n\nJournal Articles\n\nGraetz, D., Mayr, U. (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? Current Opinion in Behavioral Sciences, 57, 101389. [DOI]\n\n\nMirjalili, S., Wanjia, G., Graetz, D., Wang, E., Mayr, U., Kuhl, B. A. (submitted). Hippocampal transformations occur along dimensions of memory interference. [Preprint]\n\n\nHubbard, J., Graetz, D., Mayr, U. (submitted). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [OSF]\n\n\nMoss, M., Graetz, D., Mayr, U. (submitted). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [OSF]\n\n\nChristo, M. M. S., Klein, Â. I., de Resende, L. M. M., Szmoski, R. M., Borges, R. R., & Graetz, D. (2020). Análise dos movimentos oculares durante a leitura de questões matemáticas por alunos de Engenharia que reprovaram em Cálculo Diferencial Integral I. Revista Linguagem & Ensino, 23(2), 347–363.\n\n\n\nConference Posters\n\nGraetz, D., Mayr, U. (2025). Value Contexts Modulate Attentional Capture. Psychonomic Society 66th Annual Meeting, Denver, CO. [DOI]\n\n\nRomero, A., Mirjalili, S., Graetz, D., Guo, W., Wang, E., Mayr, U., Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. Cognitive Neuroscience Society Annual Meeting, Boston, MA. [DOI]\n\n\nGraetz, D., Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. Psychonomic Society Annual Meeting, New York, NY. [DOI]\n\n\nGraetz, D., Guo, W., Mirjalili, S., Wang, E., Mayr, U., Kuhl, B. A. (2024). Hippocampal Repulsion as a Function of Memory Similarity and Experience. Neuroscience, Chicago, IL. [DOI]\n\n\nGraetz, D., Mayr, U. (2023). Slower Response Speed Moves Us from Exploitation to Exploration. Psychonomic Society Annual Meeting, San Francisco, CA. [DOI]\n\n\nGraetz, D., Moss, M. E., & Mayr, U. (2023). Should I Stay or Should I Go? Breathing Modulates the Attentional Exploitation/Exploration Balance. Graduate Student Research Forum, University of Oregon. [DOI]\n\n\nDodge, C., Graetz, D., Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. Undergraduate Research Symposium, University of Oregon. [DOI]\n\n\nAhmad, S., Graetz, D., Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Action-Relevant Information. Undergraduate Research Symposium, University of Oregon. [DOI]\n\n\nWang, E., Graetz, D., Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging: An Eye-Tracking Approach. Undergraduate Research Symposium, University of Oregon. [DOI]\n\n\nGraetz, D., Froeber, K., & Mayr, U. (2022). Does distraction make you slow, or does being slow make you distracted? Testing a rational choice model of consulting the environment for action-relevant information. Cognitive Aging Conference, Atlanta, GA. [DOI]\n\n\nArora, N., Graetz, D., & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? Undergraduate Research Symposium, University of Oregon. [DOI]"
+    "objectID": "portfolio.html#osf-pre-registrations",
+    "href": "portfolio.html#osf-pre-registrations",
+    "title": "Portfolio",
+    "section": "OSF Pre-Registrations",
+    "text": "OSF Pre-Registrations\n\nRational Attention & Environment–Memory Orientation\n\n\n Does distraction make you slow, or does being slow make you distracted?\nThe foundational pre-registration for the rational cue-fixation model. In a time-limited task-switching paradigm, participants must decide each trial whether to check an external task cue or rely on memory - trading off certainty against the time cost of checking. Tests whether cue-checking follows rational decision-making principles.\n\n\n Can distractibility be adaptive? Examining the effect of reaction times on attentional orientation\nFollow-up pre-registration testing whether slowing primary task response times (via a trackpad motor manipulation) increases cue-checking rates - replicating the age-related pattern within younger adults and ruling out parallel-processing confounds from perceptual difficulty manipulations.\n\n\n Does slowing the rate of exploitation increase orientation to the environment?\nExtends the cue-checking series by manipulating response rate through inter-trial intervals (ITI) rather than stimulus or motor difficulty, ensuring cue checks cannot occur in parallel with the primary task.\n\n\n Older adults rely more on the environment - due to age differences in discrimination or bias?\nUses signal-detection theory to disentangle whether older adults’ greater reliance on environmental cues reflects a general bias toward bottom-up input or a reduced ability to discriminate contexts in which external information is adaptive.\n\n\n Does decision-making guide attentional capture?\nTests whether attentional capture can be suppressed when it is financially costly, addressing a gap in the literature where capture has only been studied in consequence-free contexts. Asks whether people exert rational control over capture when benefits outweigh control costs.\n\n\n Are reward effects in attentional capture contingent on feedback?\nFollow-up to the capture study above. An initial analysis revealed that reward-modulated capture only appeared when feedback about distractor inspections was available. This pre-registration tests whether feedback is a necessary condition for value-driven modulation of attentional capture.\n\n\nStability–Flexibility Tradeoffs\n\n\n Multilevel Test of Stability–Flexibility Tradeoffs\nPre-registration for the first level of analysis in a multi-level project on stability/flexibility tradeoffs. Tests whether experimental manipulations of prior and current trial control demands interact with task-switching costs in a manner consistent with a tradeoff model.\n\n\n Individual Differences Test of Stability–Flexibility Tradeoffs\nThird-level pre-registration testing whether individual differences in stability/efficiency and flexibility measures are consistent with the tradeoff model, building on the experimental and within-subject analyses from the earlier levels."
   },
   {
-    "objectID": "cv.html#honors-students-mentees",
-    "href": "cv.html#honors-students-mentees",
-    "title": "Curriculum Vitae",
-    "section": "Honors Students Mentees",
-    "text": "Honors Students Mentees\n\nKeely McMullen Blezyl Domingo Eric Wang Sarita Ahmad Cade Dodge"
+    "objectID": "industry/portfolio.html",
+    "href": "industry/portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "A selection of interactive tools and online experiments from my research on attentional control and the exploitation–exploration tradeoff."
   },
   {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "Curriculum Vitae",
+    "objectID": "industry/portfolio.html#interactive-demo",
+    "href": "industry/portfolio.html#interactive-demo",
+    "title": "Portfolio",
+    "section": "Interactive Demo",
+    "text": "Interactive Demo\n\n Attentional Decision Making\nAn interactive Hugging Face Space visualizing the value-based decision model of attentional control. Explore how response speed and reward context jointly govern whether attention is directed internally or toward the environment. Built with R and Shiny."
+  },
+  {
+    "objectID": "industry/portfolio.html#online-experiments",
+    "href": "industry/portfolio.html#online-experiments",
+    "title": "Portfolio",
+    "section": "Online Experiments",
+    "text": "Online Experiments\nMost of my experiments were run in person - see the three exceptions below, each hosted on Pavlovia.\n\n Beaches — Visual Search & Reward\nA Prolific-compatible task hosted on Pavlovia. It efficiently measures similarity ratings between many stimuli. Inspired by Hebart et al., 2020.\n\n\n Slow Search — Speed & Exploration\nA visual search experiment probing whether response slowing shifts attention from exploitation to exploration and to which degree humans can exhibit rational attentional behavior. The task manipulates response speed to test whether slower participants show greater reliance on external, action-relevant information.\n\n\n Slow Math — Arithmetic & Attention\nThis experiment is similar to “Slow Search” but manipulates response speed by including easy vs. difficult math problems."
+  },
+  {
+    "objectID": "industry/portfolio.html#osf-pre-registrations",
+    "href": "industry/portfolio.html#osf-pre-registrations",
+    "title": "Portfolio",
+    "section": "OSF Pre-Registrations",
+    "text": "OSF Pre-Registrations\n\nRational Attention & Environment–Memory Orientation\n\n\n Does distraction make you slow, or does being slow make you distracted?\nThe foundational pre-registration for the rational cue-fixation model. In a time-limited task-switching paradigm, participants must decide each trial whether to check an external task cue or rely on memory — trading off certainty against the time cost of checking. Tests whether cue-checking follows rational decision-making principles.\n\n\n Can distractibility be adaptive? Examining the effect of reaction times on attentional orientation\nFollow-up pre-registration testing whether slowing primary task response times (via a trackpad motor manipulation) increases cue-checking rates — replicating the age-related pattern within younger adults and ruling out parallel-processing confounds from perceptual difficulty manipulations.\n\n\n Does slowing the rate of exploitation increase orientation to the environment?\nExtends the cue-checking series by manipulating response rate through inter-trial intervals (ITI) rather than stimulus or motor difficulty, ensuring cue checks cannot occur in parallel with the primary task.\n\n\n Older adults rely more on the environment — due to age differences in discrimination or bias?\nUses signal-detection theory to disentangle whether older adults’ greater reliance on environmental cues reflects a general bias toward bottom-up input or a reduced ability to discriminate contexts in which external information is adaptive.\n\n\n Does decision-making guide attentional capture?\nTests whether attentional capture can be suppressed when it is financially costly, addressing a gap in the literature where capture has only been studied in consequence-free contexts. Asks whether people exert rational control over capture when benefits outweigh control costs.\n\n\n Are reward effects in attentional capture contingent on feedback?\nFollow-up to the capture study above. An initial analysis revealed that reward-modulated capture only appeared when feedback about distractor inspections was available. This pre-registration tests whether feedback is a necessary condition for value-driven modulation of attentional capture.\n\n\nStability–Flexibility Tradeoffs\n\n\n Multilevel Test of Stability–Flexibility Tradeoffs\nPre-registration for the first level of analysis in a multi-level project on stability/flexibility tradeoffs. Tests whether experimental manipulations of prior and current trial control demands interact with task-switching costs in a manner consistent with a tradeoff model.\n\n\n Individual Differences Test of Stability–Flexibility Tradeoffs\nThird-level pre-registration testing whether individual differences in stability/efficiency and flexibility measures are consistent with the tradeoff model, building on the experimental and within-subject analyses from the earlier levels."
+  },
+  {
+    "objectID": "industry/work.html",
+    "href": "industry/work.html",
+    "title": "Work",
+    "section": "",
+    "text": "I study how people make decisions about where to direct their attention — a question at the intersection of cognitive science, behavioral economics, and data science. My work combines large-scale behavioral experiments, eye-tracking, and computational modeling to understand and predict human decision-making."
+  },
+  {
+    "objectID": "industry/work.html#featured-project",
+    "href": "industry/work.html#featured-project",
+    "title": "Work",
+    "section": "Featured Project",
+    "text": "Featured Project\n\n Attentional Decision Making — Interactive Demo\nAn interactive app (R/Shiny) that visualizes a value-based computational model of attentional control. Users can explore how decision variables like response speed and reward jointly govern exploration vs. exploitation in attention. Built for communicating research findings to a broad audience."
+  },
+  {
+    "objectID": "industry/work.html#selected-publications",
+    "href": "industry/work.html#selected-publications",
+    "title": "Work",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nGraetz, D., Mayr, U. (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? Current Opinion in Behavioral Sciences, 57, 101389.\nReviewed and synthesized 50+ empirical studies to evaluate a theoretical model of cognitive control — drawing on meta-analytic thinking and quantitative evidence. [DOI]\n\n\nHubbard, J., Graetz, D., Mayr, U. (under review). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support.\nAnalyzed multi-group eye-tracking data with mixed-effects models to test a rational decision model across younger and older adults. [OSF]\n\n\nMoss, M., Graetz, D., Mayr, U. (under review). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions.\nApplied structural equation modeling and individual-differences analysis to a large behavioral dataset to identify latent dimensions of cognitive control. [OSF]"
+  },
+  {
+    "objectID": "industry/work.html#teaching",
+    "href": "industry/work.html#teaching",
+    "title": "Work",
     "section": "Teaching",
-    "text": "Teaching\n\nUniversity of Oregon — Instructor\n\n\n\nCourse\nRole\nYears\n\n\n\n\nPSY 613 – Data Analysis III\nInstructor\n2026\n\n\nPSY 612 – Data Analysis II\nInstructor\n2024, 2025\n\n\nPSY 611 – Data Analysis I\nInstructor\n2023, 2024\n\n\nPSY 303 – Research Methods\nInstructor\n2023, 2025\n\n\nPSY 302 – Statistical Methods\nInstructor\n2024\n\n\nR Bootcamp (incoming PhD students)\nInstructor\n2022–2025\n\n\nPSY 305 – Cognition\nTeaching Assistant\n2023, 2024\n\n\nPSY 301 – Scientific Thinking\nTeaching Assistant\n2022\n\n\nPSY 201 – Mind and Brain\nTeaching Assistant\n2021\n\n\n\n\n\nUniversity of Potsdam\n\nAcademic Writing (undergraduate instructor)"
-  },
-  {
-    "objectID": "cv.html#scholarships-awards",
-    "href": "cv.html#scholarships-awards",
-    "title": "Curriculum Vitae",
-    "section": "Scholarships & Awards",
-    "text": "Scholarships & Awards\n\n\n\n2026\n\n\nClarence and Lucille Dunbar Scholarship — University of Oregon\n\n\n\n\n2022–2025\n\n\nHarvey E. Lee Scholarship — University of Oregon (awarded 3 consecutive years)\n\n\n\n\n2020–2021\n\n\nFulbright Scholarship — German-American Fulbright Exchange, 9-month full-time graduate fellowship\n\n\n\n\n2020–2021\n\n\nFirst Year Merit Award — University of Oregon\n\n\n\n\n02–03/2018\n\n\nPROMOS Scholarship — German Academic Exchange Service (DAAD), research internship in Brazil\n\n\n\n\n2017–2018\n\n\nErasmus+ Scholarship — Exchange semester at University of Southampton"
-  },
-  {
-    "objectID": "cv.html#professional-development",
-    "href": "cv.html#professional-development",
-    "title": "Curriculum Vitae",
-    "section": "Professional Development",
-    "text": "Professional Development\n\n2024 — Workshop: The New PhD – How to Build a Better Graduate Education (Len Cassuto, Oregon State University)\n2022 — Certificate: Learning SQL Programming (LinkedIn Learning)\n2019 — Docendo Discimus Teaching Certificate, 360 hours theory & practice (University of Potsdam)"
-  },
-  {
-    "objectID": "cv.html#skills-methods",
-    "href": "cv.html#skills-methods",
-    "title": "Curriculum Vitae",
-    "section": "Skills & Methods",
-    "text": "Skills & Methods\n\n\nProgramming\nR · MATLAB · JavaScript/PsychoJS · Python · Bash · SQL\n\n\nTools & Frameworks\nPsychtoolbox · PsychoPy · Quarto · Shiny · HPC clusters · Parallel Computing\n\n\nData Collection Tools\nPavlovia · PsychoPy · Qualtrics · SONA\n\n\nStatistics\nLinear Regressions · Mixed Effects Models · Nonparametric methods · Bayesian methods · Structural Equation Modeling · Fourier/wavelet analysis · Machine learning\n\n\nMethods\nEye-tracking · fMRI analysis · Online experiments · Computational Modeling · Monte Carlo Simulations"
-  },
-  {
-    "objectID": "cv.html#volunteering",
-    "href": "cv.html#volunteering",
-    "title": "Curriculum Vitae",
-    "section": "Volunteering",
-    "text": "Volunteering\n\n\n\n2024–present\n\n\nNational Marrow Donation Program — Campus Chapter, University of Oregon\n\n\n\n\n2022–2024\n\n\nCascadia R Conference — Member, Organization Committee\n\n\n\n\n2017–2018\n\n\nBritish Red Cross Society — Fundraising Volunteer, Southampton, England"
+    "text": "Teaching\nInstructor — University of Oregon\nGraduate and undergraduate courses in statistics, data analysis, and research methods.\n\n\n\nCourse\nYears\n\n\n\n\nPSY 613 – Data Analysis III\n2026\n\n\nPSY 612 – Data Analysis II\n2024, 2025\n\n\nPSY 611 – Data Analysis I\n2023, 2024\n\n\nPSY 303 – Research Methods\n2023, 2025\n\n\nPSY 302 – Statistical Methods\n2024\n\n\nR Bootcamp (incoming PhD students)\n2022–2025"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My work focuses on attentional control and the exploitation/exploration tradeoff — how rational decision variables (response speed, reward, uncertainty, respiration) shape whether we rely on internal representations or consult the environment. I use behavioral experiments, eye-tracking, and computational modeling (GLMMs, Bayesian methods) with both younger and older adult populations. PI: Prof. Ulrich Mayr, University of Oregon."
-  },
-  {
-    "objectID": "research.html#featured-project",
-    "href": "research.html#featured-project",
-    "title": "Research",
-    "section": "Featured Project",
-    "text": "Featured Project\n\n Attentional Decision Making — Interactive Demo\nAn interactive Hugging Face Space visualizing the value-based decision model of attentional control. Explore how response speed and reward context jointly govern the exploitation–exploration tradeoff in attention."
+    "text": "My work focuses on attentional control and the exploitation/exploration tradeoff - how rational decision variables (response speed, reward, uncertainty, respiration) shape whether we rely on internal representations or consult the environment. I use behavioral experiments, eye-tracking, and computational modeling (GLMMs, Bayesian methods) with both younger and older adult populations. PI: Prof. Ulrich Mayr, University of Oregon."
   },
   {
     "objectID": "research.html#journal-articles",
@@ -102,13 +109,90 @@
     "href": "research.html#teaching",
     "title": "Research",
     "section": "Teaching",
-    "text": "Teaching\nInstructor — University of Oregon\n\n\n\nCourse\nYears\n\n\n\n\nPSY 613 - Data Analysis III\n2026\n\n\nPSY 612 – Data Analysis II\n2024, 2025\n\n\nPSY 611 – Data Analysis I\n2023, 2024\n\n\nPSY 303 – Research Methods\n2023, 2025\n\n\nPSY 302 – Statistical Methods\n2024\n\n\nR Bootcamp (incoming PhD students)\n2022–2025\n\n\n\nTeaching Assistant: PSY 201 Cognition (2021) · PSY 301 Scientific Thinking (2022) · PSY 305 Cognition (2023, 2024)"
+    "text": "Teaching\nInstructor - University of Oregon\n\n\n\nCourse\nYears\n\n\n\n\nPSY 613 - Data Analysis III\n2026\n\n\nPSY 612 – Data Analysis II\n2024, 2025\n\n\nPSY 611 – Data Analysis I\n2023, 2024\n\n\nPSY 303 – Research Methods\n2023, 2025\n\n\nPSY 302 – Statistical Methods\n2024\n\n\nR Bootcamp (incoming PhD students)\n2022–2025\n\n\n\nTeaching Assistant: PSY 201 Cognition (2021) · PSY 301 Scientific Thinking (2022) · PSY 305 Cognition (2023, 2024)\nInstructor - University of Potsdam\n\nAcademic Writing"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dominik Graetz",
     "section": "",
-    "text": "PhD Candidate  ·  Cognitive Dynamics Lab  ·  University of Oregon\n      Dominik Graetz\n      \n        I study attentional control and the exploitation–exploration tradeoff —\n        how decision variables like response speed, reward, and uncertainty shape whether we rely on\n        internal representations or consult the environment. I work with behavioral experiments,\n        eye-tracking, and computational modeling across younger and older adult populations.\n      \n      \n        Advisor: Prof. Ulrich Mayr\n      \n      \n        ✉  Email\n          GitHub\n          LinkedIn\n          ResearchGate\n        Research Demo\n        Publications →\n      \n    \n    \n      \n        \n      \n    \n  \n\n\n\n  \n\n    \n      Education\n      \n        \n          Ph.D. Psychology in progress\n          University of Oregon  ·  2021–present\n          Cognitive Neuroscience & Data Science  · \n        \n        \n          M.S. Psychology\n          University of Oregon  ·  December 2021  · \n        \n        \n          B.Sc. Psychology\n          University of Potsdam, Germany  ·  2015–2019\n        \n      \n    \n\n    \n      Scholarships & Awards\n      \n        \n          \n          Clarence and Lucille Dunbar Scholarship — 2025\n        \n        \n          \n          Harvey E. Lee Scholarship — 2022, 2023, 2024\n        \n        \n          \n          Fulbright Scholarship — 2020\n        \n        \n          \n          First Year Merit Award, University of Oregon — 2020"
+    "text": "PhD Candidate  ·  Cognitive Dynamics Lab  ·  University of Oregon\n      Dominik Graetz\n      \n        I study attention and decision making at the intersection of\n        cognitive psychology and behavioral economics - asking how rational decision variables like\n        speed, reward, and uncertainty govern whether we rely on memory or consult the environment.\n        I use behavioral experiments, eye-tracking, and computational modeling across younger and older adults.\n      \n      \n        Advisor: Prof. Ulrich Mayr\n      \n      \n        ✉  Email\n          GitHub\n          LinkedIn\n          ResearchGate\n        Portfolio →\n        Publications →\n      \n    \n    \n      \n        \n      \n    \n  \n\n\n\n  \n\n    \n      Education\n      \n        \n          Ph.D. Psychology in progress\n          University of Oregon  ·  2021–present\n          Specializations: Neuroscience & Data Science  · \n        \n        \n          M.S. Psychology\n          University of Oregon  ·  December 2021  · \n        \n        \n          B.Sc. Psychology\n          University of Potsdam, Germany  ·  2015–2019\n        \n      \n    \n\n    \n      Scholarships & Awards\n      \n        \n          \n          Clarence and Lucille Dunbar Scholarship - 2025\n        \n        \n          \n          Harvey E. Lee Scholarship - 2022, 2023, 2024\n        \n        \n          \n          Fulbright Scholarship - 2020\n        \n        \n          \n          First Year Merit Award, University of Oregon - 2020"
+  },
+  {
+    "objectID": "industry/index.html",
+    "href": "industry/index.html",
+    "title": "Dominik Graetz",
+    "section": "",
+    "text": "Behavioral Researcher  ·  Data Scientist  ·  University of Oregon\n      Dominik Graetz\n      \n        I design and analyze behavioral experiments at the intersection of\n        cognitive science and data science —\n        studying how people make decisions under uncertainty and translating\n        those insights into rigorous, reproducible findings.\n        I work in R and Python, with experience in statistical modeling,\n        eye-tracking, and online research at scale.\n      \n      \n        ✉  Email\n          GitHub\n          LinkedIn\n          ResearchGate\n        Research Demo\n        Selected Work →\n      \n    \n    \n      \n        \n      \n    \n  \n\n\n\n  \n\n    \n      Skills\n      \n        \n          Languages & Tools\n          R · Python · MATLAB · SQL · Bash\n        \n        \n          Statistics & Modeling\n          Mixed-effects models · Bayesian methods · signal detection theory · computational modeling · machine learning\n        \n        \n          Research Methods\n          Experimental design · eye-tracking · online experiments · Quarto · Shiny · HPC / parallel computing\n        \n      \n    \n\n    \n      Experience\n      \n        \n          PhD Researcher in progress\n          University of Oregon  ·  2020–present\n          Behavioral experiments · computational modeling · data pipelines in R/Python\n        \n        \n          Instructor — Data Analysis I, II & III\n          University of Oregon  ·  2023–2026\n          Graduate-level statistical methods, R programming, reproducible research\n        \n        \n          Fulbright Scholar\n          U.S. Department of State  ·  2020"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Eugene, OR, U.S.A.\n  \n  \n    dgrtz@uoregon.edu\n    github.com/dgraetz\n    ResearchGate"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n\n2020–present\n\n\nPh.D. Psychology in progress - University of Oregon, Eugene, OR, USA\nSpecializations: Neuroscience, Data Science\nAdvisor: Prof. Ulrich Mayr\n\n\n\n\n\n2020-2021\n\n\nMS Psychology - University of Oregon, Eugene, OR, USA\n\n\n\n\n2017–2018\n\n\nErasmus Exchange Semester - University of Southampton, England\nFocus: Cognitive Psychology\n\n\n\n\n2015–2019\n\n\nB.Sc. Psychology - University of Potsdam, Germany\nFocus: Cognitive Psychology & Neuroscience\nThesis on Speed Reading"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n\n\n2020–present\n\n\nGraduate Researcher - Cognitive Dynamics Lab, University of Oregon\n\nComputational Modeling of Attentional Decision Problems\nResearch on rational analyses of internal/external information consumption and the influence of respiration on cognition\nEye-tracking and respiration experiments in MATLAB/Psychtoolbox, online experiments in PsychoPy/Python and JavaScript\nStatistical modelling in R: Mixed Models, ANOVAs, t-tests, non-parametric tests\nMentored six undergraduate students in honors projects\n\n\n\n\n\n2017–2021\n\n\nStudent Research Assistant - University of Potsdam / University of Paderborn\nJunior Research Group Hybrid Narrativity: Digital and Cognitive Approaches to Graphic Literature\nStatistical analyses, experiment programming, eye-tracking experiments - data collection, image annotation for AI training,\n\n\n\n\n2018–2019\n\n\nStudent Researcher - University of Rostock\nOrganized and conducted testing for a standardization project of the KFT 4-12+R intelligence test\n\n\n\n\n02–03/2018\n\n\nResearch Internship - Universidade Tecnológica Federal do Paraná, Brazil\nEye-tracking methodology and analysis consultation\n\n\n\n\n2016–2017\n\n\nStudent Researcher - University of Potsdam\nJunior Research Group Health Sciences Development of research design and data collection for a project investigating the consequences of acute psychosocial stress on decision-making in indiivduals with metabolic syndrome"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nJournal Articles\n\nGraetz, D., Mayr, U. (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? Current Opinion in Behavioral Sciences, 57, 101389. [DOI]\n\n\nMirjalili, S., Wanjia, G., Graetz, D., Wang, E., Mayr, U., Kuhl, B. A. (submitted). Hippocampal transformations occur along dimensions of memory interference. [Preprint]\n\n\nHubbard, J., Graetz, D., Mayr, U. (submitted). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [OSF]\n\n\nMoss, M., Graetz, D., Mayr, U. (submitted). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [OSF]\n\n\nChristo, M. M. S., Klein, Â. I., de Resende, L. M. M., Szmoski, R. M., Borges, R. R., & Graetz, D. (2020). Análise dos movimentos oculares durante a leitura de questões matemáticas por alunos de Engenharia que reprovaram em Cálculo Diferencial Integral I. Revista Linguagem & Ensino, 23(2), 347–363.\n\n\n\nConference Posters\n\nGraetz, D., Mayr, U. (2025). Value Contexts Modulate Attentional Capture. Psychonomic Society 66th Annual Meeting, Denver, CO. [DOI]\n\n\nRomero, A., Mirjalili, S., Graetz, D., Guo, W., Wang, E., Mayr, U., Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. Cognitive Neuroscience Society Annual Meeting, Boston, MA. [DOI]\n\n\nGraetz, D., Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. Psychonomic Society Annual Meeting, New York, NY. [DOI]\n\n\nGraetz, D., Guo, W., Mirjalili, S., Wang, E., Mayr, U., Kuhl, B. A. (2024). Hippocampal Repulsion as a Function of Memory Similarity and Experience. Neuroscience, Chicago, IL. [DOI]\n\n\nGraetz, D., Mayr, U. (2023). Slower Response Speed Moves Us from Exploitation to Exploration. Psychonomic Society Annual Meeting, San Francisco, CA. [DOI]\n\n\nGraetz, D., Moss, M. E., & Mayr, U. (2023). Should I Stay or Should I Go? Breathing Modulates the Attentional Exploitation/Exploration Balance. Graduate Student Research Forum, University of Oregon. [DOI]\n\n\nDodge, C., Graetz, D., Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. Undergraduate Research Symposium, University of Oregon. [DOI]\n\n\nAhmad, S., Graetz, D., Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Action-Relevant Information. Undergraduate Research Symposium, University of Oregon. [DOI]\n\n\nWang, E., Graetz, D., Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging: An Eye-Tracking Approach. Undergraduate Research Symposium, University of Oregon. [DOI]\n\n\nGraetz, D., Froeber, K., & Mayr, U. (2022). Does distraction make you slow, or does being slow make you distracted? Testing a rational choice model of consulting the environment for action-relevant information. Cognitive Aging Conference, Atlanta, GA. [DOI]\n\n\nArora, N., Graetz, D., & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? Undergraduate Research Symposium, University of Oregon. [DOI]"
+  },
+  {
+    "objectID": "cv.html#honors-studentsmentees",
+    "href": "cv.html#honors-studentsmentees",
+    "title": "Curriculum Vitae",
+    "section": "Honors Students/Mentees",
+    "text": "Honors Students/Mentees\n\nKeely McMullen Blezyl Domingo Cade Dodge Sarita Ahmad Eric Wang Nayantara Arora"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\n\nUniversity of Oregon\n\n\n\nCourse\nRole\nYears\n\n\n\n\nPSY 613 – Data Analysis III\nInstructor\n2026\n\n\nPSY 612 – Data Analysis II\nInstructor\n2024, 2025\n\n\nPSY 611 – Data Analysis I\nInstructor\n2023, 2024\n\n\nPSY 303 – Research Methods\nInstructor\n2023, 2025\n\n\nPSY 302 – Statistical Methods\nInstructor\n2024\n\n\nR Bootcamp (incoming PhD students)\nInstructor\n2022–2025\n\n\nPSY 305 – Cognition\nTeaching Assistant\n2023, 2024\n\n\nPSY 301 – Scientific Thinking\nTeaching Assistant\n2022\n\n\nPSY 201 – Mind and Brain\nTeaching Assistant\n2021\n\n\n\n\nAnonymous Student Feedback\n\n  \n   Dominik did a fantastic job teaching this course. He spent significant time and effort on explaining course content, assignments, and even went as far as to introduce us to the reproducibility crisis inpsychology research. I talked to other students in the class and they agreed, really stellar job, even though sometimes it was a challenge getting students to actively participate in class. Five stars. Thankyou, Dominik!\n    - PSY 303 student, Winter 2023\n  \n  \n    Dominik was an amazing instructor. I really appreciated the way he explained things and really appreciated the work he does on the whiteboard. He helped clarify many of my questions.\n    - PSY 612 student, Winter 2024\n  \n  \n    The highlight of the course undoubtedly lies in the laboratory sessions. Dominik excels when it comes to providing feedback and facilitating a thorough understanding of the concepts.\n    - PSY 611 student, Fall 2023\n  \n  \n    Dominik is such a great instructor. He answered every question with clarity and would often repeat it if he noticed we were not grasping it right away. He also was very accessible over email.\n    - PSY 611 student, Fall 2023\n  \n\n\n\n\nUniversity of Potsdam\nAcademic Writing (undergraduate instructor)"
+  },
+  {
+    "objectID": "cv.html#scholarships-awards",
+    "href": "cv.html#scholarships-awards",
+    "title": "Curriculum Vitae",
+    "section": "Scholarships & Awards",
+    "text": "Scholarships & Awards\n\n\n\n2026\n\n\nClarence and Lucille Dunbar Scholarship - University of Oregon\n\n\n\n\n2022–2025\n\n\nHarvey E. Lee Scholarship - University of Oregon (awarded 3 consecutive years)\n\n\n\n\n2020–2021\n\n\nFulbright Scholarship - German-American Fulbright Exchange, 9-month full-time graduate fellowship\n\n\n\n\n2020–2021\n\n\nFirst Year Merit Award - University of Oregon\n\n\n\n\n02–03/2018\n\n\nPROMOS Scholarship - German Academic Exchange Service (DAAD), research internship in Brazil\n\n\n\n\n2017–2018\n\n\nErasmus+ Scholarship - Exchange semester at University of Southampton"
+  },
+  {
+    "objectID": "cv.html#professional-development",
+    "href": "cv.html#professional-development",
+    "title": "Curriculum Vitae",
+    "section": "Professional Development",
+    "text": "Professional Development\n\n2024 - Workshop: The New PhD – How to Build a Better Graduate Education (Len Cassuto, Oregon State University)\n2022 - Certificate: Learning SQL Programming (LinkedIn Learning)\n2019 - Docendo Discimus Teaching Certificate, 360 hours theory & practice (University of Potsdam)"
+  },
+  {
+    "objectID": "cv.html#skills-methods",
+    "href": "cv.html#skills-methods",
+    "title": "Curriculum Vitae",
+    "section": "Skills & Methods",
+    "text": "Skills & Methods\n\n\nProgramming\nR · MATLAB · JavaScript/PsychoJS · Python · Bash · SQL\n\n\nTools & Frameworks\nPsychtoolbox · PsychoPy · Quarto · Shiny · HPC clusters · Parallel Computing\n\n\nData Collection Tools\nPavlovia · PsychoPy · Qualtrics · SONA · Prolific\n\n\nStatistics\nLinear Regressions · Mixed Effects Models · Nonparametric methods · Bayesian methods · Structural Equation Modeling · Fourier/wavelet analysis · Machine learning\n\n\nMethods\nEye-tracking · fMRI analysis · Online experiments · Computational Modeling · Monte Carlo Simulations"
+  },
+  {
+    "objectID": "cv.html#volunteering",
+    "href": "cv.html#volunteering",
+    "title": "Curriculum Vitae",
+    "section": "Volunteering",
+    "text": "Volunteering\n\n\n\n2024–present\n\n\nNational Marrow Donation Program - Campus Chapter, University of Oregon\n\n\n\n\n2022–2024\n\n\nCascadia R Conference - Member, Organization Committee\n\n\n\n\n2017–2018\n\n\nBritish Red Cross Society - Fundraising Volunteer, Southampton, England"
   }
 ]

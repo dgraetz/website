@@ -16,7 +16,9 @@
   --radius:  12px;
   --shadow:  0 1px 3px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.06);
   --shadow-hover: 0 4px 6px rgba(0,0,0,.08), 0 8px 24px rgba(0,0,0,.1);
+  
 }
+
 
 /* ── Base ──────────────────────────────────────────────── */
 body {
@@ -165,21 +167,83 @@ a:hover { text-decoration: underline; }
 /* ── Photo circle ──────────────────────────────────────── */
 .hero-photo { flex-shrink: 0; }
 
+@keyframes ring-spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes ring-glow {
+  0%, 100% { filter: blur(6px) brightness(1.1); opacity: 0.75; }
+  50%       { filter: blur(10px) brightness(1.4); opacity: 1; }
+}
+
 .photo-ring {
-  width: 200px;
-  height: 200px;
+  position: relative;
+  width: 280px;
+  height: 280px;
   border-radius: 50%;
   padding: 4px;
-  background: linear-gradient(135deg, var(--teal), #6366f1);
+  background: transparent;
+  isolation: isolate;
+}
+
+.photo-ring::before,
+.photo-ring::after {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  border-radius: 50%;
+  background: conic-gradient(var(--teal), #6366f1, #a78bfa, var(--teal));
+  animation: ring-spin 4s linear infinite;
+}
+
+.photo-ring::before { z-index: -1; }
+
+.photo-ring::after {
+  z-index: -2;
+  inset: -8px;
+  filter: blur(8px) brightness(1.2);
+  opacity: 0.85;
+  animation: ring-spin 4s linear infinite, ring-glow 3s ease-in-out infinite;
 }
 
 .photo-img {
+  position: relative;
   width: 100%;
   height: 100%;
   border-radius: 50%;
   object-fit: cover;
   object-position: center top;
   display: block;
+  z-index: 1;
+  /* white gap between ring and photo */
+  outline: 4px solid white;
+}
+
+/* ── Project cards (research & portfolio pages) ────────── */
+.project-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--teal);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.project-card:hover {
+  box-shadow: 0 6px 20px rgba(32,178,152,0.15);
+  transform: translateY(-2px);
+}
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+.project-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.65;
 }
 
 /* ── Info cards (home page below hero) ─────────────────── */
@@ -454,6 +518,53 @@ tbody tr:last-child td { border-bottom: none; }
 }
 .cv-entry-body li { margin-bottom: 0.2rem; }
 
+/* Teaching quotes */
+.teaching-quotes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.25rem 0 0.5rem;
+}
+.teaching-quote {
+  background: var(--teal-lt);
+  border-left: 3px solid var(--teal);
+  border-radius: 0 8px 8px 0;
+  padding: 0.85rem 1rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  line-height: 1.6;
+  font-style: italic;
+}
+.teaching-quote::before {
+  content: "\201C";
+  font-size: 1.6rem;
+  color: var(--teal);
+  line-height: 0;
+  vertical-align: -0.5rem;
+  margin-right: 0.15rem;
+  font-style: normal;
+}
+.teaching-quote-source {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  font-style: normal;
+  color: var(--slate);
+}
+@media (max-width: 600px) {
+  .teaching-quotes { grid-template-columns: 1fr; }
+}
+
+.cv-entry-logo {
+  height: 22px;
+  width: auto;
+  opacity: 0.85;
+  margin-top: 0.35rem;
+  display: block;
+  filter: grayscale(10%);
+  max-width: 110px;
+}
+
 /* ── Skills grid ───────────────────────────────────────── */
 .skills-grid {
   display: grid;
@@ -492,7 +603,7 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2.5rem 0; }
   .hero-name { font-size: 2.1rem; }
   .hero-bio { max-width: 100%; }
   .hero-links { justify-content: center; }
-  .photo-ring { width: 130px; height: 130px; }
+  .photo-ring { width: 155px; height: 155px; }
   .info-inner { grid-template-columns: 1fr; }
   .info-section { padding: 2rem 1.25rem; }
   .cv-header { flex-direction: column; gap: 0.75rem; }
@@ -500,3 +611,65 @@ hr { border: none; border-top: 1px solid var(--border); margin: 2.5rem 0; }
   .cv-entry { grid-template-columns: 1fr; gap: 0.25rem; }
   .skills-grid { grid-template-columns: 1fr; }
 }
+
+
+
+/* ── Table of Contents (TOC) ───────────────────────────── */
+#TOC {
+  font-size: 0.875rem;
+}
+
+/* The TOC title */
+.toc-title {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+  color: var(--navy);
+  margin-bottom: 1rem;
+}
+
+/* Standard TOC links */
+#TOC a {
+  color: var(--muted);
+  text-decoration: none;
+  padding-left: 0.5rem;
+  border-left: 2px solid transparent;
+  transition: color 0.15s ease, border-left-color 0.15s ease;
+}
+
+/* ── TOC links on hover ────────────────────────────────── */
+#TOC a:hover,
+div.sidebar-item-container a:hover {
+  color: var(--teal) !important;
+  background-color: var(--teal-lt); 
+  border-left-color: var(--teal);
+  border-radius: 0 6px 6px 0; /* Keeps the edges softly rounded */
+  transition: all 0.15s ease; /* Makes the color change smooth */
+}
+
+/* The active TOC link (current section) */
+#TOC a.active,
+#TOC .nav-link.active {
+  color: var(--teal);
+  font-weight: 600;
+  border-left-color: var(--teal);
+}
+
+/* Indent nested TOC levels nicely */
+#TOC ul ul {
+  padding-left: 1rem;
+  margin-top: 0.25rem;
+}
+
+/* ── The active/selected TOC link ──────────────────────── */
+#TOC a.active,
+#TOC .nav-link.active,
+div.sidebar-item-container .active {
+  color: var(--teal) !important;
+  font-weight: 600;
+  border-left-color: var(--teal) !important;
+  
+  /* Optional: Adds a very light teal background to the selected item */
+  background-color: var(--teal-lt); 
+  border-radius: 0 6px 6px 0;
+}
+

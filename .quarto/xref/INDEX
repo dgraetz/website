@@ -7,5 +7,17 @@
   },
   "cv.qmd": {
     "cv.html": "35ba3da3"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "17476ab3"
+  },
+  "industry/work.qmd": {
+    "work.html": "1ed21374"
+  },
+  "industry/index.qmd": {
+    "index.html": "85027861"
+  },
+  "industry/portfolio.qmd": {
+    "portfolio.html": "ddd41c7b"
   }
 }

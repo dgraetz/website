@@ -2,22 +2,14 @@
 title: "Research"
 ---
 
-My work focuses on **attentional control** and the **exploitation/exploration tradeoff** —
+My work focuses on **attentional control** and the **exploitation/exploration tradeoff** -
 how rational decision variables (response speed, reward, uncertainty, respiration) shape
 whether we rely on internal representations or consult the environment.
 I use behavioral experiments, eye-tracking, and computational modeling (GLMMs, Bayesian
 methods) with both younger and older adult populations.
 PI: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/), University of Oregon.
 
-## Featured Project
 
-:::{.project-card}
-### [<i class="bi bi-play-circle-fill"></i> Attentional Decision Making — Interactive Demo](https://dgraetz-attdecmaking.hf.space)
-
-An interactive Hugging Face Space visualizing the value-based decision model of attentional
-control. Explore how response speed and reward context jointly govern the
-exploitation–exploration tradeoff in attention.
-:::
 
 ## Journal Articles
 
@@ -95,7 +87,7 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 
 ## Teaching
 
-**Instructor** — University of Oregon
+**Instructor** - University of Oregon
 
 | Course | Years |
 |--------|-------|
@@ -107,3 +99,7 @@ Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate 
 | R Bootcamp (incoming PhD students) | 2022–2025 |
 
 **Teaching Assistant:** PSY 201 Cognition (2021) · PSY 301 Scientific Thinking (2022) · PSY 305 Cognition (2023, 2024)
+
+**Instructor** - University of Potsdam
+
+-   Academic Writing

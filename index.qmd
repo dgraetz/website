@@ -10,10 +10,10 @@ page-layout: full
       <p class="hero-tag">PhD Candidate &nbsp;·&nbsp; Cognitive Dynamics Lab &nbsp;·&nbsp; University of Oregon</p>
       <h1 class="hero-name">Dominik Graetz</h1>
       <p class="hero-bio">
-        I study <strong>attentional control</strong> and the <strong>exploitation–exploration tradeoff</strong> —
-        how decision variables like response speed, reward, and uncertainty shape whether we rely on
-        internal representations or consult the environment. I work with behavioral experiments,
-        eye-tracking, and computational modeling across younger and older adult populations.
+        I study <strong>attention</strong> and <strong>decision making</strong> at the intersection of
+        cognitive psychology and behavioral economics - asking how rational decision variables like
+        speed, reward, and uncertainty govern whether we rely on memory or consult the environment.
+        I use behavioral experiments, eye-tracking, and computational modeling across younger and older adults.
       </p>
       <p class="hero-bio">
         Advisor: <a href="https://blogs.uoregon.edu/cognitivedynamics/home/">Prof. Ulrich Mayr</a>
@@ -23,7 +23,7 @@ page-layout: full
         <a class="btn-pill" href="https://github.com/dgraetz"><i class="bi bi-github"></i>&thinsp; GitHub</a>
         <a class="btn-pill" href="https://linkedin.com/in/dgraetz"><i class="bi bi-linkedin"></i>&thinsp; LinkedIn</a>
         <a class="btn-pill" href="https://www.researchgate.net/profile/Dominik-Graetz"><i class="ai ai-researchgate"></i>&thinsp; ResearchGate</a>
-        <a class="btn-pill" href="https://dgraetz-attdecmaking.hf.space">Research Demo</a>
+        <a class="btn-pill" href="portfolio.html">Portfolio →</a>
         <a class="btn-pill" href="research.html">Publications →</a>
       </div>
     </div>
@@ -44,7 +44,7 @@ page-layout: full
         <div class="edu-entry">
           <span class="edu-degree">Ph.D. Psychology <span class="badge-pill">in progress</span></span>
           <span class="edu-place">University of Oregon &nbsp;·&nbsp; 2021–present</span>
-          <span class="edu-note">Cognitive Neuroscience & Data Science &nbsp;·&nbsp;</span>
+          <span class="edu-note">Specializations: Neuroscience & Data Science &nbsp;·&nbsp;</span>
         </div>
         <div class="edu-entry">
           <span class="edu-degree">M.S. Psychology</span>
@@ -62,19 +62,19 @@ page-layout: full
       <div class="card-body awards-list">
         <div class="award-entry">
           <span class="award-dot"></span>
-          <span>Clarence and Lucille Dunbar Scholarship — 2025</span>
+          <span>Clarence and Lucille Dunbar Scholarship - 2025</span>
         </div>
         <div class="award-entry">
           <span class="award-dot"></span>
-          <span>Harvey E. Lee Scholarship — 2022, 2023, 2024</span>
+          <span>Harvey E. Lee Scholarship - 2022, 2023, 2024</span>
         </div>
         <div class="award-entry">
           <span class="award-dot"></span>
-          <span>Fulbright Scholarship — 2020</span>
+          <span>Fulbright Scholarship - 2020</span>
         </div>
         <div class="award-entry">
           <span class="award-dot"></span>
-          <span>First Year Merit Award, University of Oregon — 2020</span>
+          <span>First Year Merit Award, University of Oregon - 2020</span>
         </div>
       </div>
     </div>
