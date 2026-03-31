@@ -114,6 +114,7 @@ Statistical analyses, experiment programming, eye-tracking experiments - data co
 :::
 ::: {.cv-entry-logo-col}
 [![](images/potsdam_logo.png){.cv-entry-logo}](https://www.uni-potsdam.de/en/department-psychologie/index)
+[![](images/paderborn.jpg){.cv-entry-logo}](https://www.uni-paderborn.de)
 :::
 :::
 
