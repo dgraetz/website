@@ -1,0 +1,14 @@
+<!-- Academicons (for ResearchGate icon) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<script>
+// Replace "ResearchGate" navbar text with the academicons icon
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.navbar-nav a').forEach(function (link) {
+    if (link.href && link.href.includes('researchgate')) {
+      link.innerHTML = '<i class="ai ai-researchgate" style="font-size:1.15rem;vertical-align:middle;"></i>';
+      link.setAttribute('aria-label', 'ResearchGate');
+    }
+  });
+});
+</script>

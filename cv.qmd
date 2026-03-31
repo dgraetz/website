@@ -1,0 +1,334 @@
+---
+title: "Curriculum Vitae"
+---
+
+```{=html}
+<div class="cv-header">
+  <div class="cv-name-block">
+    <h1 class="cv-name">Dominik Graetz</h1>
+    <p class="cv-location">Eugene, OR, U.S.A.</p>
+  </div>
+  <div class="cv-contact-block">
+    <a href="mailto:dgrtz@uoregon.edu">dgrtz@uoregon.edu</a><br>
+    <a href="https://github.com/dgraetz">github.com/dgraetz</a><br>
+    <a href="https://www.researchgate.net/profile/Dominik-Graetz">ResearchGate</a><br>
+    <a href="https://dgraetz-attdecmaking.hf.space">Research Demo</a>
+  </div>
+</div>
+```
+
+## Education
+
+::: {.cv-section}
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2020–present
+:::
+::: {.cv-entry-body}
+**Ph.D. Psychology** — University of Oregon, Eugene, OR, USA\
+Cognitive Psychology & Neuroscience, Data Science · GPA 4.12\
+Advisor: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/)\
+*Master's degree awarded December 2021 (GPA: 4.07)*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2019–2020
+:::
+::: {.cv-entry-body}
+**M.Sc. Psychology** *(transferred)* — University of Potsdam, Germany
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2017–2018
+:::
+::: {.cv-entry-body}
+**Erasmus Exchange Semester** — University of Southampton, England\
+Focus: Cognitive and Forensic Psychology
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2015–2019
+:::
+::: {.cv-entry-body}
+**B.Sc. Psychology** — University of Potsdam, Germany\
+Focus: Cognitive Psychology & Neuroscience · GPA ~3.7\
+Thesis on Speed Reading *(grade equivalent ~4.0)*
+:::
+:::
+
+:::
+
+## Research Experience
+
+::: {.cv-section}
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2020–present
+:::
+::: {.cv-entry-body}
+**Graduate Researcher** — [Cognitive Dynamics Lab](https://blogs.uoregon.edu/cognitivedynamics/home/), University of Oregon
+
+- Research on rational analyses of internal/external information consumption and the influence of respiration on cognition
+- Eye-tracking and respiration experiments in MATLAB/Psychtoolbox with serial device integration; online experiments in Python and JavaScript
+- Statistical modelling in R: (sinusoidal) GLMMs, ANOVAs, t-tests, non-parametric tests
+- Mentored five undergraduate students in honors projects
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2017–2021
+:::
+::: {.cv-entry-body}
+**Student Research Assistant** — University of Potsdam / University of Paderborn\
+*Hybrid Narrativity: Digital and Cognitive Approaches to Graphic Literature*
+
+- Image annotation for AI training, statistical analyses, experiment programming, eye-tracking
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2018–2019
+:::
+::: {.cv-entry-body}
+**Test Leader for Berlin & Brandenburg** — University of Rostock\
+Organized and conducted standardization testing for the KFT 4-12+R intelligence test
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+02–03/2018
+:::
+::: {.cv-entry-body}
+**Research Internship** — Universidade Tecnológica Federal do Paraná (UTFPR), Brazil\
+Eye-tracking methodology consultation and German instruction
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2016–2017
+:::
+::: {.cv-entry-body}
+**Junior Research Group, Health Sciences** — University of Potsdam\
+Decision-making under acute psychosocial stress in adults with metabolic syndrome
+:::
+:::
+
+:::
+
+## Publications
+
+### Journal Articles
+
+::: {.pub-entry}
+**Graetz, D.**, Mayr, U. (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? *Current Opinion in Behavioral Sciences, 57*, 101389. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+:::
+
+::: {.pub-entry}
+Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U., Kuhl, B. A. (*submitted*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
+:::
+
+::: {.pub-entry}
+Hubbard, J., **Graetz, D.**, Mayr, U. (*submitted*). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[OSF]](https://osf.io/4dqj5/overview)
+:::
+
+::: {.pub-entry}
+Moss, M., **Graetz, D.**, Mayr, U. (*submitted*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
+:::
+
+::: {.pub-entry}
+Christo, M. M. S., Klein, Â. I., de Resende, L. M. M., Szmoski, R. M., Borges, R. R., & **Graetz, D.** (2020). Análise dos movimentos oculares durante a leitura de questões matemáticas por alunos de Engenharia que reprovaram em Cálculo Diferencial Integral I. *Revista Linguagem & Ensino, 23*(2), 347–363.
+:::
+
+### Conference Posters
+
+::: {.pub-entry}
+**Graetz, D.**, Mayr, U. (2025). Value Contexts Modulate Attentional Capture. *Psychonomic Society 66th Annual Meeting*, Denver, CO. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+:::
+
+::: {.pub-entry}
+Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U., Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Cognitive Neuroscience Society Annual Meeting*, Boston, MA. [[DOI]](https://doi.org/10.13140/RG.2.2.14251.96800)
+:::
+
+::: {.pub-entry}
+Dodge, C., **Graetz, D.**, Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
+:::
+
+::: {.pub-entry}
+**Graetz, D.**, Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. *Psychonomic Society Annual Meeting*, New York, NY. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+:::
+
+::: {.pub-entry}
+**Graetz, D.**, Guo, W., Mirjalili, S., Wang, E., Mayr, U., Kuhl, B. A. (2024). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Neuroscience*, Chicago, IL. [[DOI]](https://doi.org/10.13140/RG.2.2.34615.94888)
+:::
+
+::: {.pub-entry}
+**Graetz, D.**, Mayr, U. (2023). Slower Response Speed Moves Us from Exploitation to Exploration. *Psychonomic Society Annual Meeting*, San Francisco, CA. [[DOI]](https://doi.org/10.13140/RG.2.2.36435.96802)
+:::
+
+::: {.pub-entry}
+**Graetz, D.**, Moss, M. E., & Mayr, U. (2023). Should I Stay or Should I Go? Breathing Modulates the Attentional Exploitation/Exploration Balance. *Graduate Student Research Forum*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21372.82560)
+:::
+
+::: {.pub-entry}
+Ahmad, S., **Graetz, D.**, Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Action-Relevant Information. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.11482.93125)
+:::
+
+::: {.pub-entry}
+Wang, E., **Graetz, D.**, Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging: An Eye-Tracking Approach. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21614.79682)
+:::
+
+::: {.pub-entry}
+**Graetz, D.**, Froeber, K., & Mayr, U. (2022). Does distraction make you slow, or does being slow make you distracted? Testing a rational choice model of consulting the environment for action-relevant information. *Cognitive Aging Conference*, Atlanta, GA. [[DOI]](https://doi.org/10.13140/RG.2.2.12311.04004)
+:::
+
+::: {.pub-entry}
+Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21560.01281)
+:::
+
+## Teaching
+
+### University of Oregon — Instructor
+
+| Course | Role | Years |
+|--------|------|-------|
+| PSY 612 – Data Analysis II | Instructor | 2024, 2025 |
+| PSY 611 – Data Analysis I | Instructor | 2023, 2024 |
+| PSY 303 – Research Methods | Instructor | 2023, 2025 |
+| PSY 302 – Statistical Methods | Instructor | 2024 |
+| R Bootcamp (incoming PhD students) | Instructor | 2022–2025 |
+| PSY 305 – Cognition | Teaching Assistant | 2023, 2024 |
+| PSY 301 – Scientific Thinking | Teaching Assistant | 2022 |
+| PSY 201 – Mind and Brain | Teaching Assistant | 2021 |
+
+### University of Potsdam
+
+- Academic Writing (undergraduate instructor)
+
+## Scholarships & Awards
+
+::: {.cv-section}
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2022–2025
+:::
+::: {.cv-entry-body}
+**Harvey E. Lee Scholarship** — University of Oregon *(awarded 3 consecutive years)*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2020–2021
+:::
+::: {.cv-entry-body}
+**Fulbright Scholarship** — German-American Fulbright Exchange, 9-month full-time graduate fellowship
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2020–2021
+:::
+::: {.cv-entry-body}
+**First Year Merit Award** — University of Oregon
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+02–03/2018
+:::
+::: {.cv-entry-body}
+**PROMOS Scholarship** — German Academic Exchange Service (DAAD), research internship in Brazil
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2017–2018
+:::
+::: {.cv-entry-body}
+**Erasmus+ Scholarship** — Exchange semester at University of Southampton
+:::
+:::
+
+:::
+
+## Professional Development
+
+- **2024** — Workshop: *The New PhD – How to Build a Better Graduate Education* (Len Cassuto, Oregon State University)
+- **2022** — Certificate: *Learning SQL Programming* (LinkedIn Learning)
+- **2019** — *Docendo Discimus* Teaching Certificate, 360 hours theory & practice (University of Potsdam)
+
+## Volunteering
+
+::: {.cv-section}
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2024–present
+:::
+::: {.cv-entry-body}
+**National Marrow Donation Program** — Campus Chapter, University of Oregon
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2022–2024
+:::
+::: {.cv-entry-body}
+**Cascadia R Conference** — Member, Organization Committee
+:::
+:::
+
+
+::: {.cv-entry}
+::: {.cv-entry-meta}
+2017–2018
+:::
+::: {.cv-entry-body}
+**British Red Cross Society** — Fundraising Volunteer, Southampton, England
+:::
+:::
+
+:::
+
+## Skills & Methods
+
+::: {.skills-grid}
+
+::: {.skill-block}
+**Programming**\
+R · Python · MATLAB · JavaScript · Bash · SQL
+:::
+
+::: {.skill-block}
+**Tools & Frameworks**\
+Psychtoolbox · PsychoPy · Quarto · Shiny · HPC clusters
+:::
+
+::: {.skill-block}
+**Statistics**\
+GLMMs · Bayesian methods · SEM · Fourier/wavelet analysis · Machine learning
+:::
+
+::: {.skill-block}
+**Methods**\
+Eye-tracking · Respiration recording · fMRI analysis · Online experiments
+:::
+
+:::

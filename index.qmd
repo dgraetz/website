@@ -1,0 +1,80 @@
+---
+title: ""
+page-layout: full
+---
+
+```{=html}
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <p class="hero-tag">PhD Candidate &nbsp;·&nbsp; Cognitive Dynamics Lab &nbsp;·&nbsp; University of Oregon</p>
+      <h1 class="hero-name">Dominik Graetz</h1>
+      <p class="hero-bio">
+        I study <strong>attentional control</strong> and the <strong>exploitation–exploration tradeoff</strong> —
+        how decision variables like response speed, reward, and uncertainty shape whether we rely on
+        internal representations or consult the environment. I work with behavioral experiments,
+        eye-tracking, and computational modeling across younger and older adult populations.
+      </p>
+      <p class="hero-bio">
+        Advisor: <a href="https://blogs.uoregon.edu/cognitivedynamics/home/">Prof. Ulrich Mayr</a>
+      </p>
+      <div class="hero-links">
+        <a class="btn-pill btn-primary" href="mailto:dgrtz@uoregon.edu">✉&thinsp; Email</a>
+        <a class="btn-pill" href="https://github.com/dgraetz"><i class="bi bi-github"></i>&thinsp; GitHub</a>
+        <a class="btn-pill" href="https://linkedin.com/in/dgraetz"><i class="bi bi-linkedin"></i>&thinsp; LinkedIn</a>
+        <a class="btn-pill" href="https://www.researchgate.net/profile/Dominik-Graetz"><i class="ai ai-researchgate"></i>&thinsp; ResearchGate</a>
+        <a class="btn-pill" href="https://dgraetz-attdecmaking.hf.space">Research Demo</a>
+        <a class="btn-pill" href="research.html">Publications →</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <div class="photo-ring">
+        <img src="profile.jpg" alt="Dominik Graetz" class="photo-img">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="info-section">
+  <div class="info-inner">
+
+    <div class="info-card">
+      <div class="card-label">Education</div>
+      <div class="card-body">
+        <div class="edu-entry">
+          <span class="edu-degree">Ph.D. Psychology <span class="badge-pill">in progress</span></span>
+          <span class="edu-place">University of Oregon &nbsp;·&nbsp; 2020–present</span>
+          <span class="edu-note">Cognitive Neuroscience & Data Science &nbsp;·&nbsp; GPA 4.12</span>
+        </div>
+        <div class="edu-entry">
+          <span class="edu-degree">M.Sc. Psychology</span>
+          <span class="edu-place">University of Oregon &nbsp;·&nbsp; December 2021 &nbsp;·&nbsp; GPA 4.07</span>
+        </div>
+        <div class="edu-entry">
+          <span class="edu-degree">B.Sc. Psychology</span>
+          <span class="edu-place">University of Potsdam, Germany &nbsp;·&nbsp; 2015–2019</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="info-card">
+      <div class="card-label">Scholarships & Awards</div>
+      <div class="card-body awards-list">
+        <div class="award-entry">
+          <span class="award-dot"></span>
+          <span>Harvey E. Lee Scholarship — 2022, 2023, 2024</span>
+        </div>
+        <div class="award-entry">
+          <span class="award-dot"></span>
+          <span>Fulbright Scholarship — 2020</span>
+        </div>
+        <div class="award-entry">
+          <span class="award-dot"></span>
+          <span>First Year Merit Award, University of Oregon — 2020</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+```

@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Dominik Graetz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/dgraetz
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/dgraetz
+        aria-label: LinkedIn
+      - text: "ResearchGate"
+        href: https://www.researchgate.net/profile/Dominik-Graetz
+      - icon: envelope
+        href: mailto:dgrtz@uoregon.edu
+        aria-label: Email
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    page-layout: article
+    include-in-header: head-includes.html
