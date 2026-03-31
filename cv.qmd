@@ -169,15 +169,15 @@ Mayr, U. & **Graetz, D.** (2024). Does Cognitive Control have a General Stabilit
 :::
 
 ::: {.pub-entry}
-Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (*submitted*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
+Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (*under review*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
 :::
 
 ::: {.pub-entry}
-Hubbard, J., **Graetz, D.** & Mayr, U. (*submitted*). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[OSF]](https://osf.io/4dqj5/overview)
+Hubbard, J., **Graetz, D.** & Mayr, U. (*under review*). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[OSF]](https://osf.io/4dqj5/overview)
 :::
 
 ::: {.pub-entry}
-Moss, M., **Graetz, D.** & Mayr, U. (*submitted*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
+Moss, M., **Graetz, D.** & Mayr, U. (*under review*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
 :::
 
 ::: {.pub-entry}
@@ -186,16 +186,14 @@ Christo, M. M. S., Klein, Â. I., de Resende, L. M. M., Szmoski, R. M., Borges, 
 
 ### Conference Posters
 
+#### Own works
+
 ::: {.pub-entry}
 **Graetz, D.** & Mayr, U. (2025). Value Contexts Modulate Attentional Capture. *Psychonomic Society 66th Annual Meeting*, Denver, CO. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
 :::
 
 ::: {.pub-entry}
-Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U.& Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *Cognitive Neuroscience Society Annual Meeting*, Boston, MA. [[DOI]](https://doi.org/10.13140/RG.2.2.14251.96800)
-:::
-
-::: {.pub-entry}
-**Graetz, D.** & Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model of Attentional Control. *Psychonomic Society Annual Meeting*, New York, NY. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+**Graetz, D.** & Mayr, U. (2024). Does Being Slow Make Us Distracted? Testing a Value-Based Decision Model. *Psychonomic Society Annual Meeting*, New York, NY. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
 :::
 
 ::: {.pub-entry}
@@ -207,29 +205,36 @@ Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U.& Kuhl, B.
 :::
 
 ::: {.pub-entry}
-**Graetz, D.**, Moss, M. E., & Mayr, U. (2023). Should I Stay or Should I Go? Breathing Modulates the Attentional Exploitation/Exploration Balance. *Graduate Student Research Forum*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21372.82560)
+**Graetz, D.**, Moss, M. E., & Mayr, U. (2023). Should I Stay or Should I Go? Breathing Modulates the Attentional Exploitation/Exploration Balance. *Graduate Student Research Forum*, UO. [[DOI]](https://doi.org/10.13140/RG.2.2.21372.82560)
 :::
 
 ::: {.pub-entry}
-Dodge, C., **Graetz, D.** & Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
+**Graetz, D.**, Froeber, K., & Mayr, U. (2022). Does distraction make you slow, or does being slow make you distracted? *Cognitive Aging Conference*, Atlanta, GA. [[DOI]](https://doi.org/10.13140/RG.2.2.12311.04004)
+:::
+
+#### Collaborations & Works of Mentees
+
+::: {.pub-entry}
+Romero, A., Mirjalili, S., **Graetz, D.**, Guo, W., Wang, E., Mayr, U., & Kuhl, B. (2025). Hippocampal Repulsion as a Function of Memory Similarity and Experience. *CNS Annual Meeting*, Boston, MA. [[DOI]](https://doi.org/10.13140/RG.2.2.14251.96800)
 :::
 
 ::: {.pub-entry}
-Ahmad, S., **Graetz, D.** & Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Action-Relevant Information. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.11482.93125)
+Dodge, C., **Graetz, D.**, & Mayr, U. (2025). Attention as Optimization: Reward-Guided Exploration and Its Limits in ADHD. *Undergraduate Research Symposium*, UO. [[DOI]](https://doi.org/10.13140/RG.2.2.15417.68969)
+:::
+
+
+::: {.pub-entry}
+Ahmad, S., **Graetz, D.**, & Mayr, U. (2023). Rational Distraction: Understanding the Adaptive Nature of Reliance on External Information. *Undergraduate Research Symposium*, UO. [[DOI]](https://doi.org/10.13140/RG.2.2.11482.93125)
 :::
 
 ::: {.pub-entry}
-Wang, E., **Graetz, D.** & Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging: An Eye-Tracking Approach. *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21614.79682)
+Wang, E., **Graetz, D.**, & Mayr, U. (2023). Task-Relevant Spatial Attention and Distractibility in Cognitive Aging. *Undergraduate Research Symposium*, UO. [[DOI]](https://doi.org/10.13140/RG.2.2.21614.79682)
 :::
+
 
 ::: {.pub-entry}
-**Graetz, D.**, Froeber, K., & Mayr, U. (2022). Does distraction make you slow, or does being slow make you distracted? Testing a rational choice model of consulting the environment for action-relevant information. *Cognitive Aging Conference*, Atlanta, GA. [[DOI]](https://doi.org/10.13140/RG.2.2.12311.04004)
+Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? *Undergraduate Research Symposium*, UO. [[DOI]](https://doi.org/10.13140/RG.2.2.21560.01281)
 :::
-
-::: {.pub-entry}
-Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? *Undergraduate Research Symposium*, University of Oregon. [[DOI]](https://doi.org/10.13140/RG.2.2.21560.01281)
-:::
-
 
 ## Honors Students/Mentees
 
