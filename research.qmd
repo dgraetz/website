@@ -84,22 +84,3 @@ Wang, E., **Graetz, D.**, & Mayr, U. (2023). Task-Relevant Spatial Attention and
 ::: {.pub-entry}
 Arora, N., **Graetz, D.**, & Mayr, U. (2022). Does the breathing cycle modulate the orientation of our attention? *Undergraduate Research Symposium*, UO. [[DOI]](https://doi.org/10.13140/RG.2.2.21560.01281)
 :::
-
-## Teaching
-
-**Instructor/Lab Instructor** - University of Oregon
-
-| Course | Years |
-|--------|-------|
-| PSY 613 - Data Analysis III | 2026 |
-| PSY 612 – Data Analysis II | 2024, 2025 |
-| PSY 611 – Data Analysis I | 2023, 2024, [2025](https://uopsych.github.io/psy611/) |
-| PSY 303 – Research Methods | 2023, 2025 |
-| PSY 302 – Statistical Methods | 2024 |
-| R Bootcamp (incoming PhD students) | 2022–[2025](https://uorbootcamp2025.netlify.app/people/) |
-
-**Teaching Assistant:** PSY 201 Cognition (2021) · PSY 301 Scientific Thinking (2022) · PSY 305 Cognition (2023, 2024)
-
-**Instructor** - University of Potsdam
-
--   Academic Writing

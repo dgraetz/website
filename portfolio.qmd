@@ -12,26 +12,12 @@ A selection of interactive tools and online experiments from my research on atte
 An interactive Hugging Face Space visualizing the value-based decision model of attentional control. Explore how response speed and reward context jointly govern whether attention is directed internally or toward the environment. Built with R and Shiny.
 :::
 
-## Online Experiments
-
-Most of my experiments were run in person - see the three exceptions below, each hosted on Pavlovia.
+## Computational Modeling of Attention
 
 ::: {.project-card}
-### [<i class="bi bi-display"></i> Beaches - Visual Search & Reward](https://run.pavlovia.org/dgraetz/beaches_prolific/?PROLIFIC_PID=100&SESSION_ID=1&STUDY_ID=1)
+### [<i class="bi bi-github"></i></i> Computational Attention Model](https://github.com/dgraetz/state_checking_attentional_allocation_model)
 
-A Prolific-compatible task hosted on Pavlovia. It efficiently measures similarity ratings between many stimuli. Inspired by [Hebart et al., 2020](https://www.nature.com/articles/s41562-020-00951-3).
-:::
-
-::: {.project-card}
-### [<i class="bi bi-display"></i> Slow Search - Speed & Exploration](https://run.pavlovia.org/dgraetz/slow_search/?participant=100&password=pilot)
-
-A visual search experiment probing whether response slowing shifts attention from exploitation to exploration and to which degree humans can exhibit rational attentional behavior. The task manipulates response speed to test whether slower participants show greater reliance on external, action-relevant information.
-:::
-
-::: {.project-card}
-### [<i class="bi bi-display"></i> Slow Math - Arithmetic & Attention](https://run.pavlovia.org/dgraetz/slow_math/?participant=999&password=pilot)
-
-This experiment is similar to "Slow Search" but manipulates response speed by including easy vs. difficult math problems.
+Check out the development of the computational model of rational attentional decision-making between a primary rewarding task and checking on hidden states that would incur losses if left unchecked [here](https://htmlpreview.github.io/?https://github.com/dgraetz/state_checking_attentional_allocation_model/blob/main/final_model.html).
 :::
 
 
@@ -78,6 +64,12 @@ Follow-up to the capture study above. An initial analysis revealed that reward-m
 ### Stability–Flexibility Tradeoffs
 
 ::: {.project-card}
+### [<i class="bi bi-github"></i> Analysis Code — Multilevel Stability–Flexibility Project](https://github.com/dgraetz/stability_flexibility)
+
+Project in collaboration with Neha Nagarkar and Sophia Angleton. R analysis scripts and models for the three-level stability/flexibility tradeoff project. Includes experimental, within-subject, and individual differences analyses testing whether cognitive control exhibits a fundamental tradeoff between stability and flexibility. Check out a rendered html version of the analysis [here](https://htmlpreview.github.io/?https://github.com/dgraetz/stability_flexibility/blob/main/dominik/AlternateRuns.html) and [here](https://htmlpreview.github.io/?https://github.com/dgraetz/stability_flexibility/blob/main/dominik/AlternateCues.html).
+:::
+
+::: {.project-card}
 ### [<i class="bi bi-journal-check"></i> Multilevel Test of Stability–Flexibility Tradeoffs](https://osf.io/9bsf5/)
 
 Pre-registration for the first level of analysis in a multi-level project on stability/flexibility tradeoffs. Tests whether experimental manipulations of prior and current trial control demands interact with task-switching costs in a manner consistent with a tradeoff model.
@@ -89,6 +81,30 @@ Pre-registration for the first level of analysis in a multi-level project on sta
 Third-level pre-registration testing whether individual differences in stability/efficiency and flexibility measures are consistent with the tradeoff model, building on the experimental and within-subject analyses from the earlier levels.
 :::
 
+
+
+
+## Online Experiments
+
+Most of my experiments were run in person - see the three exceptions below, each hosted on Pavlovia.
+
+::: {.project-card}
+### [<i class="bi bi-display"></i> Beaches - Visual Search & Reward](https://run.pavlovia.org/dgraetz/beaches_prolific/?PROLIFIC_PID=100&SESSION_ID=1&STUDY_ID=1)
+
+A Prolific-compatible task hosted on Pavlovia. It efficiently measures similarity ratings between many stimuli. Inspired by [Hebart et al., 2020](https://www.nature.com/articles/s41562-020-00951-3).
+:::
+
+::: {.project-card}
+### [<i class="bi bi-display"></i> Slow Search - Speed & Exploration](https://run.pavlovia.org/dgraetz/slow_search/?participant=100&password=pilot)
+
+A visual search experiment probing whether response slowing shifts attention from exploitation to exploration and to which degree humans can exhibit rational attentional behavior. The task manipulates response speed to test whether slower participants show greater reliance on external, action-relevant information.
+:::
+
+::: {.project-card}
+### [<i class="bi bi-display"></i> Slow Math - Arithmetic & Attention](https://run.pavlovia.org/dgraetz/slow_math/?participant=999&password=pilot)
+
+This experiment is similar to "Slow Search" but manipulates response speed by including easy vs. difficult math problems.
+:::
 
 
 
