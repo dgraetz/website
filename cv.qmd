@@ -165,15 +165,15 @@ Development of research design and data collection for a project investigating t
 ### Journal Articles
 
 ::: {.pub-entry}
-Mayr, U. & **Graetz, D.** (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? *Current Opinion in Behavioral Sciences, 57*, 101389. [[DOI]](https://doi.org/10.13140/RG.2.2.36486.18244)
+Hubbard, J., **Graetz, D.**, & Mayr, U. (2026). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[DOI]](https://doi.org/10.1037/xlm0001603)
+:::
+
+::: {.pub-entry}
+Mayr, U. & **Graetz, D.** (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? *Current Opinion in Behavioral Sciences, 57*, 101389. [[DOI]](https://doi.org/10.1016/j.cobeha.2024.101389)
 :::
 
 ::: {.pub-entry}
 Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (*under review*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
-:::
-
-::: {.pub-entry}
-Hubbard, J., **Graetz, D.** & Mayr, U. (*under review*). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[OSF]](https://osf.io/4dqj5/overview)
 :::
 
 ::: {.pub-entry}
