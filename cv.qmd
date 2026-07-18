@@ -172,6 +172,11 @@ Hubbard, J., **Graetz, D.**, & Mayr, U. (2026). Switching between Certainty and 
 Mayr, U. & **Graetz, D.** (2024). Does Cognitive Control have a General Stability/Flexibility Tradeoff Problem? *Current Opinion in Behavioral Sciences, 57*, 101389. [[DOI]](https://doi.org/10.1016/j.cobeha.2024.101389)
 :::
 
+
+::: {.pub-entry}
+**Graetz, D.**, Fröber, K. & Mayr, U. (*under review*). Putting Attentional Control to a Normative Test. [[Preprint]](https://doi.org/10.31234/osf.io/ce68p_v1)
+:::
+
 ::: {.pub-entry}
 Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (*under review*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
 :::
