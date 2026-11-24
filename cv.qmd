@@ -28,10 +28,10 @@ number_sections: true
 
 ::: {.cv-entry}
 ::: {.cv-entry-meta}
-2020–present
+2021–2026
 :::
 ::: {.cv-entry-body}
-**Ph.D. Psychology** [in progress]{.badge-pill} - [University of Oregon](https://naturalsciences.uoregon.edu/psychology), Eugene, OR, USA\
+**Ph.D. Psychology** - [University of Oregon](https://naturalsciences.uoregon.edu/psychology), Eugene, OR, USA\
 Specializations: Neuroscience, Data Science\
 Advisor: [Prof. Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/)\
 :::
@@ -169,11 +169,11 @@ Development of research design and data collection for a project investigating t
 :::
 
 ::: {.pub-entry}
-Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (*under review*). Hippocampal transformations occur along dimensions of memory interference. [[Preprint]](https://pubmed.ncbi.nlm.nih.gov/41280030/)
+Moss, M., **Graetz, D.** & Mayr, U. (*under review*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
 :::
 
 ::: {.pub-entry}
-Moss, M., **Graetz, D.** & Mayr, U. (*under review*). Levels of Hierarchical Control Organize Individual Differences in Cognition along Two Distinct Dimensions. [[OSF]](https://osf.io/9abrs/overview)
+Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (2026). Hippocampal transformations occur along dimensions of memory interference. *Nature Communications* [[DOI]](https://doi.org/10.1038/s41467-026-79331-w)
 :::
 
 ::: {.pub-entry}

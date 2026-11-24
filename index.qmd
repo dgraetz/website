@@ -7,7 +7,7 @@ page-layout: full
 <section class="hero">
   <div class="hero-inner">
     <div class="hero-text">
-      <p class="hero-tag">PhD Candidate &nbsp;·&nbsp; Cognitive Dynamics Lab &nbsp;·&nbsp; University of Oregon</p>
+      <p class="hero-tag">PhD &nbsp;·&nbsp; Cognitive Dynamics Lab &nbsp;·&nbsp; University of Oregon</p>
       <h1 class="hero-name">Dominik Graetz</h1>
       <p class="hero-bio">
         I study <strong>attention</strong> and <strong>distraction</strong> from a <strong>value-based decision-making</strong> perspective - at the intersection of
@@ -42,8 +42,8 @@ page-layout: full
       <div class="card-label">Education</div>
       <div class="card-body">
         <div class="edu-entry">
-          <span class="edu-degree">Ph.D. Psychology <span class="badge-pill">in progress</span></span>
-          <span class="edu-place">University of Oregon &nbsp;·&nbsp; 2021–present</span>
+          <span class="edu-degree">Ph.D. Psychology </span>
+          <span class="edu-place">University of Oregon &nbsp;·&nbsp; 2021–2026</span>
           <span class="edu-note">Specializations: Neuroscience & Data Science &nbsp;·&nbsp;</span>
         </div>
         <div class="edu-entry">
