@@ -173,11 +173,11 @@ Moss, M., **Graetz, D.** & Mayr, U. (*under review*). Levels of Hierarchical Con
 :::
 
 ::: {.pub-entry}
-Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (2026). Hippocampal transformations occur along dimensions of memory interference. *Nature Communications* [[DOI]](https://doi.org/10.1038/s41467-026-79331-w)
+Mirjalili, S., Wanjia, G., **Graetz, D.**, Wang, E., Mayr, U. & Kuhl, B. A. (2026). Hippocampal transformations occur along dimensions of memory interference. *Nature Communications*. [[DOI]](https://doi.org/10.1038/s41467-026-79331-w)
 :::
 
 ::: {.pub-entry}
-Hubbard, J., **Graetz, D.**, & Mayr, U. (2026). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. [[DOI]](https://doi.org/10.1037/xlm0001603)
+Hubbard, J., **Graetz, D.**, & Mayr, U. (2026). Switching between Certainty and Uncertainty: General and Age-Related Dynamics of Seeking Environmental Support. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. [[DOI]](https://doi.org/10.1037/xlm0001603)
 :::
 
 ::: {.pub-entry}
